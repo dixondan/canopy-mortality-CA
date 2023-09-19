@@ -17,6 +17,7 @@ This repository contains the following:
             - Available in the Google Earth Engine image collection: users/danieljdixon1991/CA/tree-mortality-v2/predicted_by_fire
             - Or on request
     - Labels:
+        - Locations of all 768 X 768-m scenes for model training and testing (labels/scenes_768x768.gpkg) 
         - RScript for generating canopy polygons from aerial lidar (labels/laz_to_crowns.R)
         - Geopackages of pre-fire canopy polygons labeled with post-fire NAIP imagery ()
         - Metadata for labeled polygons ()
@@ -30,6 +31,9 @@ Visualize the predicted model outputs for all 2020 California wildfires: https:/
 <p align="center">
   <img src="figs/example.gif" />
 </p>
+
+
+
 
 Cite
 --------
