@@ -11,8 +11,8 @@ Included in the paper is a workflow to detect 3-m resolution tree mortality/tree
 
 This repository contains the following:
     - Model:
-        - Trained tensorflow model
-        - Model architecture in python
+        - Saved (trained) ST-CNN model in tensorflow
+        - Model architecture (Python)
         - Predicted model outputs for 2020 wildfires
             - Available in the Google Earth Engine image collection: users/danieljdixon1991/CA/tree-mortality-v2/predicted_by_fire
             - Or on request
