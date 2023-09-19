@@ -13,6 +13,9 @@ This repository contains the following:
   - Trained tensorflow model
   - Tensorflow model in python
   - Geopackages of pre-fire canopy polygons labeled with post-fire NAIP imagery
+  - Predicted model outputs for 2020 wildfires 
+    - Available in the Google Earth Engine image collection: 
+    - Or on request
 
 Graphical abstract:
 <p align="center">
