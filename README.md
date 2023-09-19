@@ -17,8 +17,9 @@ This repository contains the following:
             - Available in the Google Earth Engine image collection: users/danieljdixon1991/CA/tree-mortality-v2/predicted_by_fire
             - Or on request
     - Labels:
-        - RScript for delineating canopy polygons 
-        - Geopackages of pre-fire canopy polygons labeled with post-fire NAIP imagery
+        - RScript for delineating canopy polygons ()
+        - Geopackages of pre-fire canopy polygons labeled with post-fire NAIP imagery ()
+        - Metadata for labeled polygons ()
 
 Graphical abstract:
 <p align="center">
