@@ -19,3 +19,6 @@ Visualize the predicted model outputs for all 2020 California wildfires: https:/
   <img src="figs/example.gif" />
 </p>
 
+Also included in this repository are the following:
+  - Trained tensorflow model
+  - Geopackages of pre-fire canopy polygons labeled with post-fire NAIP imagery
