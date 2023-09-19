@@ -14,7 +14,7 @@ This repository contains the following:
   - Tensorflow model in python
   - Geopackages of pre-fire canopy polygons labeled with post-fire NAIP imagery
   - Predicted model outputs for 2020 wildfires 
-    - Available in the Google Earth Engine image collection: 
+    - Available in the Google Earth Engine image collection: users/danieljdixon1991/CA/tree-mortality-v2/predicted_by_fire
     - Or on request
 
 Graphical abstract:
