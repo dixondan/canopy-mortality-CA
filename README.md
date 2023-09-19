@@ -10,12 +10,15 @@ This repository is associated with the article "Satellite detection of canopy-sc
 Included in the paper is a workflow to detect 3-m resolution tree mortality/tree survival following wildfires in California using pre- and post-fire PlanetScope time series. The deep learning model is trained and tested with a database of canopy scale labels derived from pre-fire aerial lidar surveys paired with manual labeling from post-fire NAIP imagery. 
 
 This repository contains the following:
-  - Trained tensorflow model
-  - Tensorflow model in python
-  - Geopackages of pre-fire canopy polygons labeled with post-fire NAIP imagery
-  - Predicted model outputs for 2020 wildfires 
-    - Available in the Google Earth Engine image collection: users/danieljdixon1991/CA/tree-mortality-v2/predicted_by_fire
-    - Or on request
+    - Model:
+        - Trained tensorflow model
+        - Model architecture in python
+        - Predicted model outputs for 2020 wildfires
+            - Available in the Google Earth Engine image collection: users/danieljdixon1991/CA/tree-mortality-v2/predicted_by_fire
+            - Or on request
+    - Labels:
+        - RScript for delineating canopy polygons 
+        - Geopackages of pre-fire canopy polygons labeled with post-fire NAIP imagery
 
 Graphical abstract:
 <p align="center">
