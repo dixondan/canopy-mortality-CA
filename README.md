@@ -15,3 +15,7 @@ Graphical abstract:
 </p>
 
 
+<p align="center">
+  <img src="figs/app.gif" />
+</p>
+
