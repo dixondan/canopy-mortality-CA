@@ -32,7 +32,10 @@ Visualize the predicted model outputs for all 2020 California wildfires: https:/
   <img src="figs/example.gif" />
 </p>
 
-
+ST-CNN model architecture:
+<p align="center">
+  <img src="figs/fig5-architecture.jpg.jpg" />
+</p>
 
 
 Cite
