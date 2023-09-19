@@ -16,6 +16,6 @@ Graphical abstract:
 
 Visualize the predicted model outputs for all 2020 California wildfires: https://bit.ly/canopy-mortality-CA
 <p align="center">
-  <img src="figs/example.gif" />
+  <img src="figs/example3.gif" />
 </p>
 
