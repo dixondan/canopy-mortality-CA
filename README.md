@@ -16,6 +16,6 @@ Graphical abstract:
 
 
 <p align="center">
-  <img src="figs/app.gif" />
+  <img src="figs/example.gif" />
 </p>
 
