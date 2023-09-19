@@ -20,7 +20,9 @@ This repository contains the following:
         - Locations of all 768 X 768-m scenes for model training and testing (labels/scenes_768x768.gpkg) 
         - RScript for generating canopy polygons from aerial lidar (labels/laz_to_crowns.R)
         - Geopackages of pre-fire canopy polygons labeled with post-fire NAIP imagery ()
+        - 3-m rasterized labels ()
         - Metadata for labeled polygons ()
+        - **Not included are PlanetScope median mosaics due to licensing restrictions
 
 Graphical abstract:
 <p align="center">
