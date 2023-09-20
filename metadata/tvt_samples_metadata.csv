@@ -1,0 +1,1177 @@
+fire_cell_quad,fire,cell,quad,tree_pix,dead_tree_pix,tree_cover,mort_cover,tree_cat,dead_cat,eco2,tvt
+czulight_646_0,czulight,646,0,13425,11343,0.81939697265625,0.8449,70-100,70-100,North Coast and Mountains,train
+czulight_646_1,czulight,646,1,7526,5102,0.4593505859375,0.6779,30-70,30-70,North Coast and Mountains,train
+czulight_646_3,czulight,646,3,7950,6129,0.4852294921875,0.7709,30-70,70-100,North Coast and Mountains,train
+northcomplex_1064_0,northcomplex,1064,0,14565,14559,0.88897705078125,0.9996,70-100,70-100,Sierra Nevada,train
+northcomplex_1064_1,northcomplex,1064,1,15197,15092,0.92755126953125,0.9931,70-100,70-100,Sierra Nevada,train
+northcomplex_1064_3,northcomplex,1064,3,15687,15655,0.95745849609375,0.998,70-100,70-100,Sierra Nevada,train
+northcomplex_1064_4,northcomplex,1064,4,15271,9335,0.93206787109375,0.6113,70-100,30-70,Sierra Nevada,train
+northcomplex_4134_1,northcomplex,4134,1,12769,7645,0.77935791015625,0.5987,70-100,30-70,Sierra Nevada,train
+northcomplex_4134_3,northcomplex,4134,3,14323,4301,0.87420654296875,0.3003,70-100,30-70,Sierra Nevada,train
+alisal_81_0,alisal,81,0,14766,0,0.9012451171875,0.0,70-100,0-30,South Coast and Mountains,train
+alisal_81_1,alisal,81,1,14769,0,0.90142822265625,0.0,70-100,0-30,South Coast and Mountains,train
+alisal_81_3,alisal,81,3,12201,0,0.74468994140625,0.0,70-100,0-30,South Coast and Mountains,train
+alisal_81_4,alisal,81,4,12041,0,0.73492431640625,0.0,70-100,0-30,South Coast and Mountains,train
+eldorado_98_0,eldorado,98,0,569,0,0.03472900390625,0.0,0-30,0-30,South Coast and Mountains,train
+eldorado_98_1,eldorado,98,1,779,0,0.04754638671875,0.0,0-30,0-30,South Coast and Mountains,train
+eldorado_98_3,eldorado,98,3,7548,0,0.460693359375,0.0,30-70,0-30,South Coast and Mountains,train
+eldorado_98_4,eldorado,98,4,2581,0,0.15753173828125,0.0,0-30,0-30,South Coast and Mountains,train
+czulight_493_1,czulight,493,1,1733,1607,0.10577392578125,0.9273,0-30,70-100,North Coast and Mountains,train
+czulight_493_3,czulight,493,3,2587,2587,0.15789794921875,1.0,0-30,70-100,North Coast and Mountains,train
+czulight_493_4,czulight,493,4,323,323,0.01971435546875,1.0,0-30,70-100,North Coast and Mountains,train
+eldorado_67_0,eldorado,67,0,1093,0,0.06671142578125,0.0,0-30,0-30,South Coast and Mountains,train
+eldorado_67_3,eldorado,67,3,5562,881,0.3394775390625,0.1584,30-70,0-30,South Coast and Mountains,train
+dolan_1086_1,dolan,1086,1,10895,3713,0.66497802734375,0.3408,30-70,30-70,Central Foothills,train
+camp_1152_1,camp,1152,1,10765,9364,0.65704345703125,0.8699,30-70,70-100,Sierra Nevada,train
+camp_1152_3,camp,1152,3,12411,4322,0.75750732421875,0.3482,70-100,30-70,Sierra Nevada,train
+camp_1152_4,camp,1152,4,12937,12161,0.78961181640625,0.94,70-100,70-100,Sierra Nevada,train
+ranch_1088_3,ranch,1088,3,5616,1757,0.3427734375,0.3129,30-70,30-70,Central Foothills,train
+czulight_486_0,czulight,486,0,57,43,0.00347900390625,0.7544,0-30,70-100,North Coast and Mountains,train
+czulight_486_1,czulight,486,1,7005,2250,0.42755126953125,0.3212,30-70,30-70,North Coast and Mountains,train
+czulight_486_3,czulight,486,3,880,760,0.0537109375,0.8636,0-30,70-100,North Coast and Mountains,train
+czulight_486_4,czulight,486,4,12262,4671,0.7484130859375,0.3809,70-100,30-70,North Coast and Mountains,train
+monument_2690_0,monument,2690,0,15067,15067,0.91961669921875,1.0,70-100,70-100,North Coast and Mountains,train
+monument_2690_3,monument,2690,3,14931,14931,0.91131591796875,1.0,70-100,70-100,North Coast and Mountains,train
+monument_2690_4,monument,2690,4,15398,15322,0.9398193359375,0.9951,70-100,70-100,North Coast and Mountains,train
+creek_3092_3,creek,3092,3,6821,5015,0.41632080078125,0.7352,30-70,70-100,Sierra Nevada,train
+camp_1392_0,camp,1392,0,6026,5181,0.3677978515625,0.8598,30-70,70-100,Central Foothills,train
+camp_1392_4,camp,1392,4,2617,2172,0.15972900390625,0.83,0-30,70-100,Central Foothills,train
+northcomplex_1930_0,northcomplex,1930,0,11026,7131,0.6729736328125,0.6467,30-70,30-70,Sierra Nevada,train
+northcomplex_1930_3,northcomplex,1930,3,10969,1838,0.66949462890625,0.1676,30-70,0-30,Sierra Nevada,train
+northcomplex_1930_4,northcomplex,1930,4,10219,8411,0.62371826171875,0.8231,30-70,70-100,Sierra Nevada,train
+dolan_893_1,dolan,893,1,7308,1311,0.446044921875,0.1794,30-70,0-30,Central Foothills,train
+dolan_893_3,dolan,893,3,12110,404,0.7391357421875,0.0334,70-100,0-30,Central Foothills,train
+camp_1594_0,camp,1594,0,11915,3830,0.72723388671875,0.3214,70-100,30-70,Sierra Nevada,train
+camp_1594_1,camp,1594,1,12251,857,0.74774169921875,0.07,70-100,0-30,Sierra Nevada,train
+camp_1594_3,camp,1594,3,14028,1514,0.856201171875,0.1079,70-100,0-30,Sierra Nevada,train
+camp_1594_4,camp,1594,4,11753,377,0.71734619140625,0.0321,70-100,0-30,Sierra Nevada,train
+ranch_2436_0,ranch,2436,0,6600,3209,0.40283203125,0.4862,30-70,30-70,North Coast and Mountains,train
+ranch_2436_1,ranch,2436,1,6301,2817,0.38458251953125,0.4471,30-70,30-70,North Coast and Mountains,train
+ranch_2436_3,ranch,2436,3,6203,4950,0.37860107421875,0.798,30-70,70-100,North Coast and Mountains,train
+dolan_1697_0,dolan,1697,0,12438,0,0.7591552734375,0.0,70-100,0-30,Central Foothills,train
+dolan_1697_1,dolan,1697,1,13046,18,0.7962646484375,0.0014,70-100,0-30,Central Foothills,train
+dolan_1697_3,dolan,1697,3,11001,85,0.67144775390625,0.0077,30-70,0-30,Central Foothills,train
+river_436_0,river,436,0,2621,0,0.15997314453125,0.0,0-30,0-30,Central Foothills,train
+river_436_1,river,436,1,8681,0,0.52984619140625,0.0,30-70,0-30,Central Foothills,train
+river_436_3,river,436,3,8653,0,0.52813720703125,0.0,30-70,0-30,Central Foothills,train
+river_436_4,river,436,4,8794,421,0.5367431640625,0.0479,30-70,0-30,Central Foothills,train
+bobcat_1294_1,bobcat,1294,1,6997,6787,0.42706298828125,0.97,30-70,70-100,South Coast and Mountains,train
+bobcat_1294_3,bobcat,1294,3,7174,4265,0.4378662109375,0.5945,30-70,30-70,South Coast and Mountains,train
+bobcat_1294_4,bobcat,1294,4,13566,2271,0.8280029296875,0.1674,70-100,0-30,South Coast and Mountains,train
+alisal_153_0,alisal,153,0,7169,1291,0.43756103515625,0.1801,30-70,0-30,South Coast and Mountains,train
+alisal_153_1,alisal,153,1,621,161,0.03790283203125,0.2593,0-30,0-30,South Coast and Mountains,train
+caldor_3023_0,caldor,3023,0,5694,239,0.3475341796875,0.042,30-70,0-30,Sierra Nevada,train
+caldor_3023_1,caldor,3023,1,10342,689,0.6312255859375,0.0666,30-70,0-30,Sierra Nevada,train
+caldor_3023_3,caldor,3023,3,5740,230,0.350341796875,0.0401,30-70,0-30,Sierra Nevada,train
+caldor_3023_4,caldor,3023,4,2829,382,0.17266845703125,0.135,0-30,0-30,Sierra Nevada,train
+eldorado_70_1,eldorado,70,1,8363,0,0.51043701171875,0.0,30-70,0-30,South Coast and Mountains,train
+eldorado_70_3,eldorado,70,3,5869,0,0.35821533203125,0.0,30-70,0-30,South Coast and Mountains,train
+eldorado_70_4,eldorado,70,4,12148,0,0.741455078125,0.0,70-100,0-30,South Coast and Mountains,train
+dixie_399_1,dixie,399,1,11085,1441,0.67657470703125,0.13,30-70,0-30,North Coast and Mountains,train
+dixie_399_3,dixie,399,3,8397,843,0.51251220703125,0.1004,30-70,0-30,North Coast and Mountains,train
+dixie_399_4,dixie,399,4,9744,2285,0.5947265625,0.2345,30-70,0-30,North Coast and Mountains,train
+camp_1637_1,camp,1637,1,7841,5839,0.47857666015625,0.7447,30-70,70-100,Sierra Nevada,train
+camp_1637_3,camp,1637,3,6446,603,0.3934326171875,0.0935,30-70,0-30,Sierra Nevada,train
+camp_1637_4,camp,1637,4,6999,3296,0.42718505859375,0.4709,30-70,30-70,Sierra Nevada,train
+monument_2687_0,monument,2687,0,11338,11338,0.6920166015625,1.0,30-70,70-100,North Coast and Mountains,train
+monument_2687_1,monument,2687,1,14845,14738,0.90606689453125,0.9928,70-100,70-100,North Coast and Mountains,train
+monument_2687_4,monument,2687,4,15139,15139,0.92401123046875,1.0,70-100,70-100,North Coast and Mountains,train
+alisal_146_0,alisal,146,0,8,8,0.00048828125,1.0,0-30,70-100,South Coast and Mountains,train
+alisal_146_1,alisal,146,1,136,37,0.00830078125,0.2721,0-30,0-30,South Coast and Mountains,train
+alisal_146_3,alisal,146,3,39,39,0.00238037109375,1.0,0-30,70-100,South Coast and Mountains,train
+ranch_2569_0,ranch,2569,0,10831,10704,0.66107177734375,0.9883,30-70,70-100,North Coast and Mountains,train
+ranch_2569_1,ranch,2569,1,10675,9970,0.65155029296875,0.934,30-70,70-100,North Coast and Mountains,train
+ranch_2569_3,ranch,2569,3,12901,12901,0.78741455078125,1.0,70-100,70-100,North Coast and Mountains,train
+ranch_2569_4,ranch,2569,4,13771,13771,0.84051513671875,1.0,70-100,70-100,North Coast and Mountains,train
+bobcat_291_1,bobcat,291,1,15254,1183,0.9310302734375,0.0776,70-100,0-30,South Coast and Mountains,train
+northcomplex_1072_0,northcomplex,1072,0,13925,13861,0.84991455078125,0.9954,70-100,70-100,Sierra Nevada,train
+northcomplex_1072_1,northcomplex,1072,1,12721,12721,0.77642822265625,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_1072_3,northcomplex,1072,3,15066,15066,0.9195556640625,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_1072_4,northcomplex,1072,4,13275,13275,0.81024169921875,1.0,70-100,70-100,Sierra Nevada,train
+camp_1385_1,camp,1385,1,7337,6336,0.44781494140625,0.8636,30-70,70-100,Sierra Nevada,train
+camp_1385_3,camp,1385,3,7284,4353,0.444580078125,0.5976,30-70,30-70,Sierra Nevada,train
+camp_1385_4,camp,1385,4,9420,7583,0.574951171875,0.805,30-70,70-100,Sierra Nevada,train
+ranch_2031_1,ranch,2031,1,2476,896,0.151123046875,0.3619,0-30,30-70,Central Foothills,train
+ranch_2031_3,ranch,2031,3,1489,270,0.09088134765625,0.1813,0-30,0-30,Central Foothills,train
+ranch_2031_4,ranch,2031,4,1521,1521,0.09283447265625,1.0,0-30,70-100,Central Foothills,train
+caldor_2923_0,caldor,2923,0,9041,1092,0.55181884765625,0.1208,30-70,0-30,Sierra Nevada,train
+caldor_2923_1,caldor,2923,1,5260,781,0.321044921875,0.1485,30-70,0-30,Sierra Nevada,train
+caldor_2923_3,caldor,2923,3,6866,294,0.4190673828125,0.0428,30-70,0-30,Sierra Nevada,train
+caldor_2923_4,caldor,2923,4,6556,333,0.400146484375,0.0508,30-70,0-30,Sierra Nevada,train
+northcomplex_3275_0,northcomplex,3275,0,11902,11902,0.7264404296875,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_3275_1,northcomplex,3275,1,13850,13850,0.8453369140625,1.0,70-100,70-100,Sierra Nevada,train
+ranch_3065_1,ranch,3065,1,4468,4298,0.272705078125,0.962,0-30,70-100,Central Foothills,train
+ranch_3065_4,ranch,3065,4,971,904,0.05926513671875,0.931,0-30,70-100,Central Foothills,train
+czulight_532_0,czulight,532,0,2220,2220,0.135498046875,1.0,0-30,70-100,North Coast and Mountains,train
+czulight_532_3,czulight,532,3,10437,10437,0.63702392578125,1.0,30-70,70-100,North Coast and Mountains,train
+czulight_532_4,czulight,532,4,3637,3637,0.22198486328125,1.0,0-30,70-100,North Coast and Mountains,train
+ranch_1879_4,ranch,1879,4,8504,2644,0.51904296875,0.3109,30-70,30-70,North Coast and Mountains,train
+camp_1550_0,camp,1550,0,12026,223,0.7340087890625,0.0185,70-100,0-30,Sierra Nevada,train
+camp_1550_1,camp,1550,1,11794,2573,0.7198486328125,0.2182,70-100,0-30,Sierra Nevada,train
+camp_1550_3,camp,1550,3,12862,1658,0.7850341796875,0.1289,70-100,0-30,Sierra Nevada,train
+camp_1550_4,camp,1550,4,11912,2044,0.72705078125,0.1716,70-100,0-30,Sierra Nevada,train
+ranch_2021_0,ranch,2021,0,11697,4837,0.71392822265625,0.4135,70-100,30-70,North Coast and Mountains,train
+ranch_2021_4,ranch,2021,4,13544,2823,0.82666015625,0.2084,70-100,0-30,North Coast and Mountains,train
+dixie_411_0,dixie,411,0,7451,6272,0.45477294921875,0.8418,30-70,70-100,North Coast and Mountains,train
+dixie_411_1,dixie,411,1,7493,7439,0.45733642578125,0.9928,30-70,70-100,North Coast and Mountains,train
+dixie_411_4,dixie,411,4,7472,7102,0.4560546875,0.9505,30-70,70-100,North Coast and Mountains,train
+camp_1168_4,camp,1168,4,15540,13273,0.948486328125,0.8541,70-100,70-100,Central Foothills,train
+camp_1169_0,camp,1169,0,11391,9130,0.69525146484375,0.8015,30-70,70-100,Central Foothills,train
+camp_1155_0,camp,1155,0,7093,2517,0.43292236328125,0.3549,30-70,30-70,Sierra Nevada,train
+camp_1155_1,camp,1155,1,7980,2784,0.487060546875,0.3489,30-70,30-70,Sierra Nevada,train
+camp_1155_3,camp,1155,3,2655,2428,0.16204833984375,0.9145,0-30,70-100,Sierra Nevada,train
+camp_1155_4,camp,1155,4,3849,2324,0.23492431640625,0.6038,0-30,30-70,Sierra Nevada,train
+camp_1343_0,camp,1343,0,13655,5200,0.83343505859375,0.3808,70-100,30-70,Sierra Nevada,train
+camp_1343_1,camp,1343,1,9729,7826,0.59381103515625,0.8044,30-70,70-100,Sierra Nevada,train
+camp_1343_3,camp,1343,3,5815,5154,0.35491943359375,0.8863,30-70,70-100,Sierra Nevada,train
+camp_1343_4,camp,1343,4,5722,3102,0.3492431640625,0.5421,30-70,30-70,Sierra Nevada,train
+czulight_669_3,czulight,669,3,5728,3208,0.349609375,0.5601,30-70,30-70,North Coast and Mountains,train
+river_552_1,river,552,1,4400,723,0.2685546875,0.1643,0-30,0-30,Central Foothills,train
+river_552_3,river,552,3,4259,810,0.25994873046875,0.1902,0-30,0-30,Central Foothills,train
+river_552_4,river,552,4,2663,628,0.16253662109375,0.2358,0-30,0-30,Central Foothills,train
+caldor_2715_1,caldor,2715,1,7963,7346,0.48602294921875,0.9225,30-70,70-100,Sierra Nevada,train
+caldor_2715_3,caldor,2715,3,9521,9250,0.58111572265625,0.9715,30-70,70-100,Sierra Nevada,train
+northcomplex_3270_0,northcomplex,3270,0,8574,4159,0.5233154296875,0.4851,30-70,30-70,Sierra Nevada,train
+northcomplex_3270_1,northcomplex,3270,1,9889,8564,0.60357666015625,0.866,30-70,70-100,Sierra Nevada,train
+northcomplex_3270_3,northcomplex,3270,3,12272,4493,0.7490234375,0.3661,70-100,30-70,Sierra Nevada,train
+northcomplex_3270_4,northcomplex,3270,4,8960,5189,0.546875,0.5791,30-70,30-70,Sierra Nevada,train
+ranch_1111_0,ranch,1111,0,11692,2483,0.713623046875,0.2124,70-100,0-30,North Coast and Mountains,train
+ranch_1111_1,ranch,1111,1,12575,10236,0.76751708984375,0.814,70-100,70-100,North Coast and Mountains,train
+ranch_1111_3,ranch,1111,3,12709,478,0.77569580078125,0.0376,70-100,0-30,North Coast and Mountains,train
+ranch_1111_4,ranch,1111,4,12312,1542,0.75146484375,0.1252,70-100,0-30,North Coast and Mountains,train
+camp_1037_0,camp,1037,0,8614,6163,0.5257568359375,0.7155,30-70,70-100,North Coast and Mountains,train
+camp_1037_1,camp,1037,1,4050,3070,0.2471923828125,0.758,0-30,70-100,North Coast and Mountains,train
+camp_1037_4,camp,1037,4,7895,7822,0.48187255859375,0.9908,30-70,70-100,North Coast and Mountains,train
+camp_1590_0,camp,1590,0,954,0,0.0582275390625,0.0,0-30,0-30,Sierra Nevada,train
+alisal_237_0,alisal,237,0,951,0,0.05804443359375,0.0,0-30,0-30,South Coast and Mountains,train
+alisal_237_3,alisal,237,3,1748,0,0.106689453125,0.0,0-30,0-30,South Coast and Mountains,train
+alisal_237_4,alisal,237,4,57,0,0.00347900390625,0.0,0-30,0-30,South Coast and Mountains,train
+camp_1553_0,camp,1553,0,8866,8604,0.5411376953125,0.9704,30-70,70-100,Sierra Nevada,train
+camp_1553_1,camp,1553,1,7354,6663,0.4488525390625,0.906,30-70,70-100,Sierra Nevada,train
+camp_1553_3,camp,1553,3,5309,5309,0.32403564453125,1.0,30-70,70-100,Sierra Nevada,train
+camp_1553_4,camp,1553,4,7547,7547,0.46063232421875,1.0,30-70,70-100,Sierra Nevada,train
+eldorado_108_0,eldorado,108,0,0,0,0.0,0.0,0-30,0-30,South Coast and Mountains,train
+eldorado_108_3,eldorado,108,3,182,148,0.0111083984375,0.8132,0-30,70-100,South Coast and Mountains,train
+caldor_1356_0,caldor,1356,0,14786,5678,0.9024658203125,0.384,70-100,30-70,Sierra Nevada,train
+caldor_1356_1,caldor,1356,1,12323,4550,0.75213623046875,0.3692,70-100,30-70,Sierra Nevada,train
+caldor_1356_3,caldor,1356,3,13890,9334,0.8477783203125,0.672,70-100,30-70,Sierra Nevada,train
+caldor_1356_4,caldor,1356,4,13251,4037,0.80877685546875,0.3047,70-100,30-70,Sierra Nevada,train
+river_627_1,river,627,1,6469,2257,0.39483642578125,0.3489,30-70,30-70,Central Foothills,train
+river_627_4,river,627,4,5046,515,0.3079833984375,0.1021,30-70,0-30,Central Foothills,train
+alisal_154_3,alisal,154,3,15373,0,0.93829345703125,0.0,70-100,0-30,South Coast and Mountains,train
+stone_325_0,stone,325,0,8918,2642,0.5443115234375,0.2963,30-70,0-30,North Coast and Mountains,train
+stone_325_1,stone,325,1,9433,3463,0.57574462890625,0.3671,30-70,30-70,North Coast and Mountains,train
+stone_325_3,stone,325,3,4221,2062,0.25762939453125,0.4885,0-30,30-70,North Coast and Mountains,train
+stone_325_4,stone,325,4,3507,2117,0.21405029296875,0.6036,0-30,30-70,North Coast and Mountains,train
+dixie_1908_0,dixie,1908,0,10366,8875,0.6326904296875,0.8562,30-70,70-100,North Coast and Mountains,train
+dixie_1908_1,dixie,1908,1,6428,5999,0.392333984375,0.9333,30-70,70-100,North Coast and Mountains,train
+dixie_1908_3,dixie,1908,3,8839,7292,0.53948974609375,0.825,30-70,70-100,North Coast and Mountains,train
+dixie_1908_4,dixie,1908,4,4054,2930,0.2474365234375,0.7227,0-30,70-100,North Coast and Mountains,train
+czulight_905_0,czulight,905,0,11785,3696,0.71929931640625,0.3136,70-100,30-70,North Coast and Mountains,train
+czulight_905_1,czulight,905,1,14683,3802,0.89617919921875,0.2589,70-100,0-30,North Coast and Mountains,train
+czulight_905_3,czulight,905,3,14062,2449,0.8582763671875,0.1742,70-100,0-30,North Coast and Mountains,train
+czulight_905_4,czulight,905,4,13251,929,0.80877685546875,0.0701,70-100,0-30,North Coast and Mountains,train
+ranch_2143_0,ranch,2143,0,3271,0,0.19964599609375,0.0,0-30,0-30,Central Foothills,train
+ranch_2143_1,ranch,2143,1,12780,0,0.780029296875,0.0,70-100,0-30,Central Foothills,train
+ranch_2143_3,ranch,2143,3,14872,0,0.90771484375,0.0,70-100,0-30,Central Foothills,train
+ranch_2143_4,ranch,2143,4,11654,0,0.7113037109375,0.0,70-100,0-30,Central Foothills,train
+slater_398_1,slater,398,1,10438,8535,0.6370849609375,0.8177,30-70,70-100,North Coast and Mountains,train
+slater_398_3,slater,398,3,13041,13041,0.79595947265625,1.0,70-100,70-100,North Coast and Mountains,train
+slater_398_4,slater,398,4,11875,11875,0.72479248046875,1.0,70-100,70-100,North Coast and Mountains,train
+stone_236_0,stone,236,0,5103,2524,0.31146240234375,0.4946,30-70,30-70,North Coast and Mountains,train
+stone_236_1,stone,236,1,6767,3675,0.41302490234375,0.5431,30-70,30-70,North Coast and Mountains,train
+stone_236_3,stone,236,3,6647,5386,0.40570068359375,0.8103,30-70,70-100,North Coast and Mountains,train
+stone_236_4,stone,236,4,4133,3475,0.25225830078125,0.8408,0-30,70-100,North Coast and Mountains,train
+creek_3379_4,creek,3379,4,3595,2622,0.21942138671875,0.7293,0-30,70-100,Sierra Nevada,train
+northcomplex_1832_0,northcomplex,1832,0,14946,107,0.9122314453125,0.0072,70-100,0-30,Sierra Nevada,train
+northcomplex_1832_1,northcomplex,1832,1,12622,279,0.7703857421875,0.0221,70-100,0-30,Sierra Nevada,train
+northcomplex_1832_3,northcomplex,1832,3,13297,216,0.81158447265625,0.0162,70-100,0-30,Sierra Nevada,train
+northcomplex_1832_4,northcomplex,1832,4,13456,396,0.8212890625,0.0294,70-100,0-30,Sierra Nevada,train
+camp_1284_0,camp,1284,0,10251,8818,0.62567138671875,0.8602,30-70,70-100,Sierra Nevada,train
+camp_1284_1,camp,1284,1,6894,6870,0.4207763671875,0.9965,30-70,70-100,Sierra Nevada,train
+camp_1284_3,camp,1284,3,15358,6453,0.9373779296875,0.4202,70-100,30-70,Sierra Nevada,train
+camp_1284_4,camp,1284,4,13868,9225,0.846435546875,0.6652,70-100,30-70,Sierra Nevada,train
+camp_1509_3,camp,1509,3,9781,9781,0.59698486328125,1.0,30-70,70-100,Sierra Nevada,train
+camp_1509_4,camp,1509,4,8953,8953,0.54644775390625,1.0,30-70,70-100,Sierra Nevada,train
+bobcat_569_0,bobcat,569,0,4313,2582,0.26324462890625,0.5987,0-30,30-70,South Coast and Mountains,train
+bobcat_569_1,bobcat,569,1,5245,3175,0.32012939453125,0.6053,30-70,30-70,South Coast and Mountains,train
+bobcat_569_3,bobcat,569,3,8565,7310,0.52276611328125,0.8535,30-70,70-100,South Coast and Mountains,train
+bobcat_569_4,bobcat,569,4,15440,2631,0.9423828125,0.1704,70-100,0-30,South Coast and Mountains,train
+caldor_2361_0,caldor,2361,0,6972,649,0.425537109375,0.0931,30-70,0-30,Sierra Nevada,train
+caldor_2361_1,caldor,2361,1,8568,394,0.52294921875,0.046,30-70,0-30,Sierra Nevada,train
+caldor_2361_3,caldor,2361,3,5791,3824,0.35345458984375,0.6603,30-70,30-70,Sierra Nevada,train
+caldor_2361_4,caldor,2361,4,7593,1198,0.46343994140625,0.1578,30-70,0-30,Sierra Nevada,train
+northcomplex_1563_0,northcomplex,1563,0,14680,2744,0.89599609375,0.1869,70-100,0-30,Sierra Nevada,train
+northcomplex_1563_1,northcomplex,1563,1,13686,1608,0.8353271484375,0.1175,70-100,0-30,Sierra Nevada,train
+camp_1125_1,camp,1125,1,8917,6210,0.54425048828125,0.6964,30-70,30-70,Central Foothills,train
+camp_1643_0,camp,1643,0,14983,8773,0.91448974609375,0.5855,70-100,30-70,Sierra Nevada,train
+camp_1643_1,camp,1643,1,15370,7139,0.9381103515625,0.4645,70-100,30-70,Sierra Nevada,train
+northcomplex_2724_0,northcomplex,2724,0,16077,1014,0.98126220703125,0.0631,70-100,0-30,Sierra Nevada,train
+northcomplex_2724_1,northcomplex,2724,1,16152,310,0.98583984375,0.0192,70-100,0-30,Sierra Nevada,train
+northcomplex_2724_3,northcomplex,2724,3,15984,1896,0.9755859375,0.1186,70-100,0-30,Sierra Nevada,train
+river_655_0,river,655,0,4047,0,0.24700927734375,0.0,0-30,0-30,Central Foothills,train
+river_655_1,river,655,1,3987,64,0.24334716796875,0.0161,0-30,0-30,Central Foothills,train
+river_655_3,river,655,3,1830,56,0.1116943359375,0.0306,0-30,0-30,Central Foothills,train
+river_655_4,river,655,4,696,108,0.04248046875,0.1552,0-30,0-30,Central Foothills,train
+caldor_1655_1,caldor,1655,1,10957,10,0.66876220703125,0.0009,30-70,0-30,Sierra Nevada,train
+caldor_1655_3,caldor,1655,3,9429,33,0.57550048828125,0.0035,30-70,0-30,Sierra Nevada,train
+camp_1859_0,camp,1859,0,14204,14175,0.866943359375,0.998,70-100,70-100,Sierra Nevada,train
+camp_1859_4,camp,1859,4,14388,13750,0.878173828125,0.9557,70-100,70-100,Sierra Nevada,train
+alisal_126_1,alisal,126,1,2095,1839,0.12786865234375,0.8778,0-30,70-100,South Coast and Mountains,train
+alisal_126_4,alisal,126,4,2968,2456,0.18115234375,0.8275,0-30,70-100,South Coast and Mountains,train
+czulight_803_0,czulight,803,0,15332,13,0.935791015625,0.0008,70-100,0-30,North Coast and Mountains,train
+czulight_803_1,czulight,803,1,15691,0,0.95770263671875,0.0,70-100,0-30,North Coast and Mountains,train
+czulight_803_3,czulight,803,3,14727,153,0.89886474609375,0.0104,70-100,0-30,North Coast and Mountains,train
+czulight_803_4,czulight,803,4,15375,27,0.93841552734375,0.0018,70-100,0-30,North Coast and Mountains,train
+czulight_817_0,czulight,817,0,14998,64,0.9154052734375,0.0043,70-100,0-30,North Coast and Mountains,train
+czulight_817_1,czulight,817,1,7381,14,0.45050048828125,0.0019,30-70,0-30,North Coast and Mountains,train
+czulight_817_3,czulight,817,3,9661,102,0.58966064453125,0.0106,30-70,0-30,North Coast and Mountains,train
+czulight_817_4,czulight,817,4,10760,178,0.65673828125,0.0165,30-70,0-30,North Coast and Mountains,train
+northcomplex_1006_0,northcomplex,1006,0,15941,15941,0.97296142578125,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_1006_1,northcomplex,1006,1,16120,16120,0.98388671875,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_1006_3,northcomplex,1006,3,15041,15041,0.91802978515625,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_1006_4,northcomplex,1006,4,15571,15571,0.95037841796875,1.0,70-100,70-100,Sierra Nevada,train
+czulight_618_0,czulight,618,0,14856,14493,0.90673828125,0.9756,70-100,70-100,North Coast and Mountains,train
+czulight_618_3,czulight,618,3,15184,11095,0.9267578125,0.7307,70-100,70-100,North Coast and Mountains,train
+czulight_618_4,czulight,618,4,15577,3915,0.95074462890625,0.2513,70-100,0-30,North Coast and Mountains,train
+eldorado_147_0,eldorado,147,0,13381,0,0.81671142578125,0.0,70-100,0-30,South Coast and Mountains,train
+ranch_1404_0,ranch,1404,0,12107,0,0.73895263671875,0.0,70-100,0-30,North Coast and Mountains,train
+ranch_1404_1,ranch,1404,1,7461,0,0.45538330078125,0.0,30-70,0-30,North Coast and Mountains,train
+ranch_1404_3,ranch,1404,3,10646,5,0.6497802734375,0.0005,30-70,0-30,North Coast and Mountains,train
+ranch_1404_4,ranch,1404,4,12296,5,0.75048828125,0.0004,70-100,0-30,North Coast and Mountains,train
+northcomplex_820_0,northcomplex,820,0,15849,15744,0.96734619140625,0.9934,70-100,70-100,Sierra Nevada,train
+northcomplex_820_1,northcomplex,820,1,13889,13889,0.84771728515625,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_820_3,northcomplex,820,3,15481,15347,0.94488525390625,0.9913,70-100,70-100,Sierra Nevada,train
+northcomplex_820_4,northcomplex,820,4,15673,13631,0.95660400390625,0.8697,70-100,70-100,Sierra Nevada,train
+creek_3378_0,creek,3378,0,7166,232,0.4373779296875,0.0324,30-70,0-30,Sierra Nevada,train
+creek_3378_3,creek,3378,3,5308,216,0.323974609375,0.0407,30-70,0-30,Sierra Nevada,train
+camp_1078_0,camp,1078,0,9258,8997,0.5650634765625,0.9718,30-70,70-100,Sierra Nevada,train
+camp_1078_1,camp,1078,1,9506,5594,0.5802001953125,0.5885,30-70,30-70,Sierra Nevada,train
+camp_1078_3,camp,1078,3,6684,6634,0.407958984375,0.9925,30-70,70-100,Sierra Nevada,train
+camp_1078_4,camp,1078,4,8095,4386,0.49407958984375,0.5418,30-70,30-70,Sierra Nevada,train
+stone_223_0,stone,223,0,5711,676,0.34857177734375,0.1184,30-70,0-30,North Coast and Mountains,train
+stone_223_1,stone,223,1,3839,1986,0.23431396484375,0.5173,0-30,30-70,North Coast and Mountains,train
+stone_223_3,stone,223,3,5094,1240,0.3109130859375,0.2434,30-70,0-30,North Coast and Mountains,train
+stone_223_4,stone,223,4,6072,981,0.37060546875,0.1616,30-70,0-30,North Coast and Mountains,train
+ranch_2333_0,ranch,2333,0,14685,4050,0.89630126953125,0.2758,70-100,0-30,North Coast and Mountains,train
+monument_2022_0,monument,2022,0,546,380,0.0333251953125,0.696,0-30,30-70,North Coast and Mountains,train
+monument_2022_1,monument,2022,1,4851,4822,0.29608154296875,0.994,0-30,70-100,North Coast and Mountains,train
+monument_2022_3,monument,2022,3,2424,1793,0.14794921875,0.7397,0-30,70-100,North Coast and Mountains,train
+monument_2022_4,monument,2022,4,2754,1214,0.1680908203125,0.4408,0-30,30-70,North Coast and Mountains,train
+caldor_3120_0,caldor,3120,0,8206,4927,0.5008544921875,0.6004,30-70,30-70,Sierra Nevada,train
+caldor_3120_1,caldor,3120,1,9553,2105,0.58306884765625,0.2203,30-70,0-30,Sierra Nevada,train
+caldor_3120_3,caldor,3120,3,9824,9575,0.599609375,0.9747,30-70,70-100,Sierra Nevada,train
+caldor_3120_4,caldor,3120,4,12297,9253,0.75054931640625,0.7525,70-100,70-100,Sierra Nevada,train
+camp_1287_1,camp,1287,1,2696,2337,0.16455078125,0.8668,0-30,70-100,Sierra Nevada,train
+camp_1287_4,camp,1287,4,1641,1598,0.10015869140625,0.9738,0-30,70-100,Sierra Nevada,train
+czulight_791_1,czulight,791,1,14159,12519,0.86419677734375,0.8842,70-100,70-100,North Coast and Mountains,train
+czulight_791_3,czulight,791,3,12678,11038,0.7738037109375,0.8706,70-100,70-100,North Coast and Mountains,train
+czulight_791_4,czulight,791,4,9606,5824,0.5863037109375,0.6063,30-70,30-70,North Coast and Mountains,train
+stone_157_0,stone,157,0,8461,3291,0.51641845703125,0.389,30-70,30-70,North Coast and Mountains,train
+stone_157_1,stone,157,1,9778,5664,0.5968017578125,0.5793,30-70,30-70,North Coast and Mountains,train
+stone_157_4,stone,157,4,7915,7187,0.48309326171875,0.908,30-70,70-100,North Coast and Mountains,train
+camp_1456_1,camp,1456,1,12324,36,0.752197265625,0.0029,70-100,0-30,Sierra Nevada,train
+camp_1456_3,camp,1456,3,12551,0,0.76605224609375,0.0,70-100,0-30,Sierra Nevada,train
+camp_1456_4,camp,1456,4,13143,0,0.80218505859375,0.0,70-100,0-30,Sierra Nevada,train
+camp_1330_4,camp,1330,4,4132,3396,0.252197265625,0.8219,0-30,70-100,Sierra Nevada,train
+northcomplex_1206_0,northcomplex,1206,0,442,404,0.0269775390625,0.914,0-30,70-100,Sierra Nevada,train
+northcomplex_1206_1,northcomplex,1206,1,1659,1659,0.10125732421875,1.0,0-30,70-100,Sierra Nevada,train
+northcomplex_1206_3,northcomplex,1206,3,2345,2044,0.14312744140625,0.8716,0-30,70-100,Sierra Nevada,train
+northcomplex_1206_4,northcomplex,1206,4,4734,4734,0.2889404296875,1.0,0-30,70-100,Sierra Nevada,train
+dixie_3404_0,dixie,3404,0,454,207,0.0277099609375,0.4559,0-30,30-70,North Coast and Mountains,train
+dixie_3404_1,dixie,3404,1,2596,1251,0.158447265625,0.4819,0-30,30-70,North Coast and Mountains,train
+dixie_3404_3,dixie,3404,3,4780,507,0.291748046875,0.1061,0-30,0-30,North Coast and Mountains,train
+dixie_3404_4,dixie,3404,4,6536,4097,0.39892578125,0.6268,30-70,30-70,North Coast and Mountains,train
+river_125_0,river,125,0,4500,4383,0.274658203125,0.974,0-30,70-100,Central Foothills,train
+river_125_4,river,125,4,5301,527,0.32354736328125,0.0994,30-70,0-30,Central Foothills,train
+caldor_1681_0,caldor,1681,0,10149,0,0.61944580078125,0.0,30-70,0-30,Sierra Nevada,train
+caldor_1681_1,caldor,1681,1,8013,0,0.48907470703125,0.0,30-70,0-30,Sierra Nevada,train
+caldor_1681_3,caldor,1681,3,11863,191,0.72406005859375,0.0161,70-100,0-30,Sierra Nevada,train
+caldor_1681_4,caldor,1681,4,10979,0,0.67010498046875,0.0,30-70,0-30,Sierra Nevada,train
+ranch_1942_0,ranch,1942,0,9867,5365,0.60223388671875,0.5437,30-70,30-70,North Coast and Mountains,train
+ranch_1942_3,ranch,1942,3,9825,2474,0.59967041015625,0.2518,30-70,0-30,North Coast and Mountains,train
+ranch_1942_4,ranch,1942,4,6415,4943,0.39154052734375,0.7705,30-70,70-100,North Coast and Mountains,train
+caldor_1871_0,caldor,1871,0,11215,11215,0.68450927734375,1.0,30-70,70-100,Sierra Nevada,train
+caldor_1871_1,caldor,1871,1,12141,12131,0.74102783203125,0.9992,70-100,70-100,Sierra Nevada,train
+caldor_1871_4,caldor,1871,4,10518,10518,0.6419677734375,1.0,30-70,70-100,Sierra Nevada,train
+czulight_431_1,czulight,431,1,12397,11017,0.75665283203125,0.8887,70-100,70-100,North Coast and Mountains,train
+czulight_431_4,czulight,431,4,15278,2720,0.9324951171875,0.178,70-100,0-30,North Coast and Mountains,train
+bobcat_1584_0,bobcat,1584,0,4846,0,0.2957763671875,0.0,0-30,0-30,South Coast and Mountains,train
+bobcat_1584_1,bobcat,1584,1,6666,0,0.4068603515625,0.0,30-70,0-30,South Coast and Mountains,train
+bobcat_1584_4,bobcat,1584,4,7155,0,0.43670654296875,0.0,30-70,0-30,South Coast and Mountains,train
+camp_1292_1,camp,1292,1,6149,3462,0.37530517578125,0.563,30-70,30-70,Sierra Nevada,train
+camp_1292_4,camp,1292,4,6290,3120,0.3839111328125,0.496,30-70,30-70,Sierra Nevada,train
+ranch_2640_0,ranch,2640,0,13165,13121,0.80352783203125,0.9967,70-100,70-100,North Coast and Mountains,train
+ranch_2640_1,ranch,2640,1,9187,9142,0.56072998046875,0.9951,30-70,70-100,North Coast and Mountains,train
+ranch_2640_3,ranch,2640,3,11757,11757,0.71759033203125,1.0,70-100,70-100,North Coast and Mountains,train
+ranch_2640_4,ranch,2640,4,9807,9807,0.59857177734375,1.0,30-70,70-100,North Coast and Mountains,train
+dixie_3559_0,dixie,3559,0,8221,8221,0.50177001953125,1.0,30-70,70-100,North Coast and Mountains,train
+dixie_3559_1,dixie,3559,1,9272,9215,0.56591796875,0.9939,30-70,70-100,North Coast and Mountains,train
+dixie_3559_3,dixie,3559,3,6908,6908,0.421630859375,1.0,30-70,70-100,North Coast and Mountains,train
+dixie_3559_4,dixie,3559,4,5004,1549,0.305419921875,0.3096,30-70,30-70,North Coast and Mountains,train
+camp_1721_0,camp,1721,0,10049,0,0.61334228515625,0.0,30-70,0-30,Sierra Nevada,train
+camp_1721_1,camp,1721,1,7274,338,0.4439697265625,0.0465,30-70,0-30,Sierra Nevada,train
+camp_1721_4,camp,1721,4,12022,0,0.7337646484375,0.0,70-100,0-30,Sierra Nevada,train
+bobcat_1341_4,bobcat,1341,4,12601,4353,0.76910400390625,0.3454,70-100,30-70,South Coast and Mountains,train
+czulight_579_0,czulight,579,0,15665,15665,0.95611572265625,1.0,70-100,70-100,North Coast and Mountains,train
+czulight_579_1,czulight,579,1,15559,15115,0.94964599609375,0.9715,70-100,70-100,North Coast and Mountains,train
+czulight_579_4,czulight,579,4,14322,13215,0.8741455078125,0.9227,70-100,70-100,North Coast and Mountains,train
+czulight_569_1,czulight,569,1,12267,8257,0.74871826171875,0.6731,70-100,30-70,North Coast and Mountains,train
+czulight_569_3,czulight,569,3,15531,12659,0.94793701171875,0.8151,70-100,70-100,North Coast and Mountains,train
+northcomplex_3212_1,northcomplex,3212,1,13007,8390,0.79388427734375,0.645,70-100,30-70,Sierra Nevada,train
+northcomplex_3212_4,northcomplex,3212,4,13776,11271,0.8408203125,0.8182,70-100,70-100,Sierra Nevada,train
+bobcat_427_1,bobcat,427,1,9237,3578,0.56378173828125,0.3874,30-70,30-70,South Coast and Mountains,train
+eldorado_197_0,eldorado,197,0,12922,4645,0.7886962890625,0.3595,70-100,30-70,South Coast and Mountains,train
+eldorado_197_3,eldorado,197,3,14507,0,0.88543701171875,0.0,70-100,0-30,South Coast and Mountains,train
+eldorado_197_4,eldorado,197,4,13894,64,0.8480224609375,0.0046,70-100,0-30,South Coast and Mountains,train
+dixie_4193_0,dixie,4193,0,7578,7578,0.4625244140625,1.0,30-70,70-100,North Coast and Mountains,train
+dixie_4193_1,dixie,4193,1,642,642,0.0391845703125,1.0,0-30,70-100,North Coast and Mountains,train
+dixie_4193_3,dixie,4193,3,815,815,0.04974365234375,1.0,0-30,70-100,North Coast and Mountains,train
+dixie_4193_4,dixie,4193,4,3,0,0.00018310546875,0.0,0-30,0-30,North Coast and Mountains,train
+stone_387_0,stone,387,0,3768,1891,0.22998046875,0.5019,0-30,30-70,North Coast and Mountains,train
+stone_387_1,stone,387,1,1642,930,0.1002197265625,0.5664,0-30,30-70,North Coast and Mountains,train
+stone_387_3,stone,387,3,5333,2276,0.32550048828125,0.4268,30-70,30-70,North Coast and Mountains,train
+stone_387_4,stone,387,4,3711,1039,0.22650146484375,0.28,0-30,0-30,North Coast and Mountains,train
+camp_976_0,camp,976,0,13880,6154,0.84716796875,0.4434,70-100,30-70,Sierra Nevada,train
+camp_976_1,camp,976,1,11586,9211,0.7071533203125,0.795,70-100,70-100,Sierra Nevada,train
+camp_976_4,camp,976,4,12444,3513,0.759521484375,0.2823,70-100,0-30,Sierra Nevada,train
+camp_1122_3,camp,1122,3,6161,2707,0.37603759765625,0.4394,30-70,30-70,Sierra Nevada,train
+camp_1122_4,camp,1122,4,4891,4112,0.29852294921875,0.8407,0-30,70-100,Sierra Nevada,train
+dixie_2736_0,dixie,2736,0,6561,6561,0.40045166015625,1.0,30-70,70-100,North Coast and Mountains,train
+dixie_2736_1,dixie,2736,1,11365,11340,0.69366455078125,0.9978,30-70,70-100,North Coast and Mountains,train
+dixie_2736_3,dixie,2736,3,3869,3077,0.23614501953125,0.7953,0-30,70-100,North Coast and Mountains,train
+dixie_2736_4,dixie,2736,4,5925,2402,0.36163330078125,0.4054,30-70,30-70,North Coast and Mountains,train
+dixie_329_1,dixie,329,1,194,0,0.0118408203125,0.0,0-30,0-30,North Coast and Mountains,train
+dixie_329_3,dixie,329,3,868,76,0.052978515625,0.0876,0-30,0-30,North Coast and Mountains,train
+dixie_329_4,dixie,329,4,67,0,0.00408935546875,0.0,0-30,0-30,North Coast and Mountains,train
+camp_1687_0,camp,1687,0,15660,7700,0.955810546875,0.4917,70-100,30-70,Sierra Nevada,train
+camp_1687_1,camp,1687,1,15623,8852,0.95355224609375,0.5666,70-100,30-70,Sierra Nevada,train
+camp_1687_3,camp,1687,3,15398,6320,0.9398193359375,0.4104,70-100,30-70,Sierra Nevada,train
+camp_1687_4,camp,1687,4,15778,4836,0.9630126953125,0.3065,70-100,30-70,Sierra Nevada,train
+ranch_2241_0,ranch,2241,0,11600,1798,0.7080078125,0.155,70-100,0-30,Central Foothills,train
+ranch_2241_1,ranch,2241,1,9881,2450,0.60308837890625,0.248,30-70,0-30,Central Foothills,train
+ranch_2241_3,ranch,2241,3,7219,261,0.44061279296875,0.0362,30-70,0-30,Central Foothills,train
+ranch_2241_4,ranch,2241,4,12272,3227,0.7490234375,0.263,70-100,0-30,Central Foothills,train
+stone_153_1,stone,153,1,4371,3916,0.26678466796875,0.8959,0-30,70-100,North Coast and Mountains,train
+stone_153_3,stone,153,3,4006,2926,0.2445068359375,0.7304,0-30,70-100,North Coast and Mountains,train
+bobcat_383_4,bobcat,383,4,14970,407,0.9136962890625,0.0272,70-100,0-30,South Coast and Mountains,train
+ranch_1370_0,ranch,1370,0,4976,4910,0.3037109375,0.9867,30-70,70-100,Central Foothills,train
+ranch_1370_3,ranch,1370,3,4211,3305,0.25701904296875,0.7848,0-30,70-100,Central Foothills,train
+ranch_1370_4,ranch,1370,4,6775,5116,0.41351318359375,0.7551,30-70,70-100,Central Foothills,train
+czulight_756_3,czulight,756,3,12993,8306,0.79302978515625,0.6393,70-100,30-70,North Coast and Mountains,train
+eldorado_343_0,eldorado,343,0,3767,353,0.22991943359375,0.0937,0-30,0-30,South Coast and Mountains,train
+eldorado_343_1,eldorado,343,1,4104,883,0.25048828125,0.2152,0-30,0-30,South Coast and Mountains,train
+ranch_1614_0,ranch,1614,0,10120,2468,0.61767578125,0.2439,30-70,0-30,Central Foothills,train
+camp_1903_0,camp,1903,0,11849,1696,0.72320556640625,0.1431,70-100,0-30,Sierra Nevada,train
+camp_1903_1,camp,1903,1,11326,1205,0.6912841796875,0.1064,30-70,0-30,Sierra Nevada,train
+camp_1903_3,camp,1903,3,11304,3960,0.68994140625,0.3503,30-70,30-70,Sierra Nevada,train
+camp_1903_4,camp,1903,4,11378,857,0.6944580078125,0.0753,30-70,0-30,Sierra Nevada,train
+camp_1732_1,camp,1732,1,15936,8112,0.97265625,0.509,70-100,30-70,Sierra Nevada,train
+camp_1732_3,camp,1732,3,15983,10921,0.97552490234375,0.6833,70-100,30-70,Sierra Nevada,train
+camp_1732_4,camp,1732,4,15624,5105,0.95361328125,0.3267,70-100,30-70,Sierra Nevada,train
+dixie_4972_0,dixie,4972,0,6038,5549,0.3685302734375,0.919,30-70,70-100,Sierra Nevada,train
+dixie_4972_1,dixie,4972,1,6475,5025,0.39520263671875,0.7761,30-70,70-100,Sierra Nevada,train
+dixie_4972_3,dixie,4972,3,4627,3836,0.28240966796875,0.829,0-30,70-100,Sierra Nevada,train
+dixie_4972_4,dixie,4972,4,4291,3687,0.26190185546875,0.8592,0-30,70-100,Sierra Nevada,train
+ranch_2109_0,ranch,2109,0,14479,10815,0.88372802734375,0.7469,70-100,70-100,North Coast and Mountains,train
+ranch_2109_1,ranch,2109,1,14449,8754,0.88189697265625,0.6059,70-100,30-70,North Coast and Mountains,train
+bobcat_381_1,bobcat,381,1,14287,3072,0.87200927734375,0.215,70-100,0-30,South Coast and Mountains,train
+monument_1842_0,monument,1842,0,7919,116,0.48333740234375,0.0146,30-70,0-30,North Coast and Mountains,train
+monument_1842_1,monument,1842,1,14639,170,0.89349365234375,0.0116,70-100,0-30,North Coast and Mountains,train
+monument_1842_3,monument,1842,3,304,287,0.0185546875,0.9441,0-30,70-100,North Coast and Mountains,train
+monument_1842_4,monument,1842,4,1093,396,0.06671142578125,0.3623,0-30,30-70,North Coast and Mountains,train
+creek_2117_1,creek,2117,1,4053,2403,0.24737548828125,0.5929,0-30,30-70,Sierra Nevada,train
+creek_2117_4,creek,2117,4,7780,2886,0.474853515625,0.371,30-70,30-70,Sierra Nevada,train
+camp_1647_0,camp,1647,0,15184,9111,0.9267578125,0.6,70-100,30-70,Sierra Nevada,train
+camp_1647_1,camp,1647,1,15700,9252,0.958251953125,0.5893,70-100,30-70,Sierra Nevada,train
+camp_1647_3,camp,1647,3,13832,11282,0.84423828125,0.8156,70-100,70-100,Sierra Nevada,train
+eldorado_220_0,eldorado,220,0,8592,8532,0.5244140625,0.993,30-70,70-100,South Coast and Mountains,train
+eldorado_220_3,eldorado,220,3,10328,5563,0.63037109375,0.5386,30-70,30-70,South Coast and Mountains,train
+northcomplex_819_0,northcomplex,819,0,14522,14522,0.8863525390625,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_819_1,northcomplex,819,1,15482,15482,0.9449462890625,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_819_3,northcomplex,819,3,14676,14676,0.895751953125,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_819_4,northcomplex,819,4,14654,14654,0.8944091796875,1.0,70-100,70-100,Sierra Nevada,train
+river_283_0,river,283,0,5110,5028,0.3118896484375,0.984,30-70,70-100,Central Foothills,train
+czulight_594_0,czulight,594,0,52,14,0.003173828125,0.2692,0-30,0-30,North Coast and Mountains,train
+czulight_594_1,czulight,594,1,1366,829,0.0833740234375,0.6069,0-30,30-70,North Coast and Mountains,train
+czulight_594_3,czulight,594,3,4999,0,0.30511474609375,0.0,30-70,0-30,North Coast and Mountains,train
+camp_1069_1,camp,1069,1,11761,8201,0.71783447265625,0.6973,70-100,30-70,Sierra Nevada,train
+camp_1069_3,camp,1069,3,13433,8549,0.81988525390625,0.6364,70-100,30-70,Sierra Nevada,train
+camp_1069_4,camp,1069,4,14912,9627,0.91015625,0.6456,70-100,30-70,Sierra Nevada,train
+dolan_1618_0,dolan,1618,0,12377,0,0.75543212890625,0.0,70-100,0-30,Central Foothills,train
+dolan_1618_3,dolan,1618,3,9155,16,0.55877685546875,0.0017,30-70,0-30,Central Foothills,train
+dolan_1618_4,dolan,1618,4,8604,319,0.525146484375,0.0371,30-70,0-30,Central Foothills,train
+camp_1064_0,camp,1064,0,11666,9682,0.7120361328125,0.8299,70-100,70-100,Sierra Nevada,train
+camp_1064_1,camp,1064,1,7752,7417,0.47314453125,0.9568,30-70,70-100,Sierra Nevada,train
+camp_1064_3,camp,1064,3,15048,5047,0.91845703125,0.3354,70-100,30-70,Sierra Nevada,train
+camp_1064_4,camp,1064,4,14704,14375,0.8974609375,0.9776,70-100,70-100,Sierra Nevada,train
+slater_187_1,slater,187,1,15302,464,0.9339599609375,0.0303,70-100,0-30,North Coast and Mountains,train
+slater_187_3,slater,187,3,12207,2014,0.74505615234375,0.165,70-100,0-30,North Coast and Mountains,train
+slater_187_4,slater,187,4,13562,3929,0.8277587890625,0.2897,70-100,0-30,North Coast and Mountains,train
+monument_1906_0,monument,1906,0,1034,1034,0.0631103515625,1.0,0-30,70-100,North Coast and Mountains,train
+monument_1906_1,monument,1906,1,224,200,0.013671875,0.8929,0-30,70-100,North Coast and Mountains,train
+monument_1906_3,monument,1906,3,744,744,0.04541015625,1.0,0-30,70-100,North Coast and Mountains,train
+monument_1906_4,monument,1906,4,138,102,0.0084228515625,0.7391,0-30,70-100,North Coast and Mountains,train
+ranch_2688_0,ranch,2688,0,11868,7259,0.724365234375,0.6116,70-100,30-70,North Coast and Mountains,train
+ranch_2688_4,ranch,2688,4,13559,3442,0.82757568359375,0.2539,70-100,0-30,North Coast and Mountains,train
+caldor_2624_1,caldor,2624,1,8682,6321,0.5299072265625,0.7281,30-70,70-100,Sierra Nevada,train
+caldor_2624_4,caldor,2624,4,10917,8725,0.66632080078125,0.7992,30-70,70-100,Sierra Nevada,train
+monument_2412_0,monument,2412,0,34,0,0.0020751953125,0.0,0-30,0-30,North Coast and Mountains,train
+monument_2412_1,monument,2412,1,2145,463,0.13092041015625,0.2159,0-30,0-30,North Coast and Mountains,train
+monument_2412_4,monument,2412,4,2789,272,0.17022705078125,0.0975,0-30,0-30,North Coast and Mountains,train
+creek_2330_0,creek,2330,0,8416,105,0.513671875,0.0125,30-70,0-30,Sierra Nevada,train
+creek_2330_1,creek,2330,1,8966,73,0.5472412109375,0.0081,30-70,0-30,Sierra Nevada,train
+creek_2330_3,creek,2330,3,3465,241,0.21148681640625,0.0696,0-30,0-30,Sierra Nevada,train
+creek_2330_4,creek,2330,4,8759,68,0.53460693359375,0.0078,30-70,0-30,Sierra Nevada,train
+alisal_106_0,alisal,106,0,9562,0,0.5836181640625,0.0,30-70,0-30,South Coast and Mountains,train
+alisal_106_3,alisal,106,3,12007,0,0.73284912109375,0.0,70-100,0-30,South Coast and Mountains,train
+alisal_106_4,alisal,106,4,7523,0,0.45916748046875,0.0,30-70,0-30,South Coast and Mountains,train
+stone_363_0,stone,363,0,1403,771,0.08563232421875,0.5495,0-30,30-70,North Coast and Mountains,train
+stone_363_1,stone,363,1,677,19,0.04132080078125,0.0281,0-30,0-30,North Coast and Mountains,train
+stone_363_3,stone,363,3,413,2,0.02520751953125,0.0048,0-30,0-30,North Coast and Mountains,train
+stone_363_4,stone,363,4,985,0,0.06011962890625,0.0,0-30,0-30,North Coast and Mountains,train
+creek_1361_0,creek,1361,0,7375,7375,0.45013427734375,1.0,30-70,70-100,Sierra Nevada,train
+creek_1361_1,creek,1361,1,5773,5773,0.35235595703125,1.0,30-70,70-100,Sierra Nevada,train
+creek_1361_3,creek,1361,3,7520,7520,0.458984375,1.0,30-70,70-100,Sierra Nevada,train
+creek_1361_4,creek,1361,4,8171,8171,0.49871826171875,1.0,30-70,70-100,Sierra Nevada,train
+caldor_3063_0,caldor,3063,0,5610,390,0.3424072265625,0.0695,30-70,0-30,Sierra Nevada,train
+caldor_3063_1,caldor,3063,1,3699,178,0.22576904296875,0.0481,0-30,0-30,Sierra Nevada,train
+caldor_3063_3,caldor,3063,3,5872,225,0.3583984375,0.0383,30-70,0-30,Sierra Nevada,train
+caldor_3063_4,caldor,3063,4,2813,93,0.17169189453125,0.0331,0-30,0-30,Sierra Nevada,train
+ranch_1009_3,ranch,1009,3,6207,0,0.37884521484375,0.0,30-70,0-30,Central Foothills,train
+ranch_1009_4,ranch,1009,4,3644,0,0.222412109375,0.0,0-30,0-30,Central Foothills,train
+northcomplex_961_1,northcomplex,961,1,14063,8421,0.85833740234375,0.5988,70-100,30-70,Sierra Nevada,train
+northcomplex_961_3,northcomplex,961,3,13390,13390,0.8172607421875,1.0,70-100,70-100,Sierra Nevada,train
+camp_1501_0,camp,1501,0,10233,0,0.62457275390625,0.0,30-70,0-30,Sierra Nevada,train
+camp_1501_3,camp,1501,3,10327,0,0.63031005859375,0.0,30-70,0-30,Sierra Nevada,train
+czulight_567_0,czulight,567,0,3841,3841,0.23443603515625,1.0,0-30,70-100,North Coast and Mountains,train
+czulight_567_1,czulight,567,1,906,906,0.0552978515625,1.0,0-30,70-100,North Coast and Mountains,train
+czulight_567_4,czulight,567,4,1772,1772,0.108154296875,1.0,0-30,70-100,North Coast and Mountains,train
+dixie_250_1,dixie,250,1,2204,2204,0.134521484375,1.0,0-30,70-100,North Coast and Mountains,train
+dixie_250_3,dixie,250,3,6991,3181,0.42669677734375,0.455,30-70,30-70,North Coast and Mountains,train
+dixie_250_4,dixie,250,4,9897,8888,0.60406494140625,0.898,30-70,70-100,North Coast and Mountains,train
+czulight_559_0,czulight,559,0,6551,579,0.39984130859375,0.0884,30-70,0-30,North Coast and Mountains,train
+czulight_559_1,czulight,559,1,7657,3085,0.46734619140625,0.4029,30-70,30-70,North Coast and Mountains,train
+czulight_559_3,czulight,559,3,8369,6719,0.51080322265625,0.8028,30-70,70-100,North Coast and Mountains,train
+czulight_559_4,czulight,559,4,10853,7824,0.66241455078125,0.7209,30-70,70-100,North Coast and Mountains,train
+dixie_3237_0,dixie,3237,0,462,346,0.0281982421875,0.7489,0-30,70-100,Sierra Nevada,train
+dixie_3237_1,dixie,3237,1,1559,444,0.09515380859375,0.2848,0-30,0-30,Sierra Nevada,train
+dixie_3237_3,dixie,3237,3,804,390,0.049072265625,0.4851,0-30,30-70,Sierra Nevada,train
+dixie_3237_4,dixie,3237,4,2227,440,0.13592529296875,0.1976,0-30,0-30,Sierra Nevada,train
+dixie_287_0,dixie,287,0,8714,64,0.5318603515625,0.0073,30-70,0-30,North Coast and Mountains,train
+dixie_287_1,dixie,287,1,7992,13,0.48779296875,0.0016,30-70,0-30,North Coast and Mountains,train
+dixie_287_3,dixie,287,3,8149,8,0.49737548828125,0.001,30-70,0-30,North Coast and Mountains,train
+dixie_287_4,dixie,287,4,6225,61,0.37994384765625,0.0098,30-70,0-30,North Coast and Mountains,train
+northcomplex_817_0,northcomplex,817,0,16024,16024,0.97802734375,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_817_1,northcomplex,817,1,15543,15543,0.94866943359375,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_817_3,northcomplex,817,3,15823,15823,0.96575927734375,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_817_4,northcomplex,817,4,15847,15847,0.96722412109375,1.0,70-100,70-100,Sierra Nevada,train
+monument_2571_1,monument,2571,1,13906,13906,0.8487548828125,1.0,70-100,70-100,North Coast and Mountains,train
+river_528_0,river,528,0,1811,1792,0.11053466796875,0.9895,0-30,70-100,Central Foothills,train
+northcomplex_630_0,northcomplex,630,0,15153,15115,0.92486572265625,0.9975,70-100,70-100,Sierra Nevada,train
+northcomplex_630_1,northcomplex,630,1,11731,11623,0.71600341796875,0.9908,70-100,70-100,Sierra Nevada,train
+northcomplex_630_3,northcomplex,630,3,12014,12014,0.7332763671875,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_630_4,northcomplex,630,4,14398,14398,0.8787841796875,1.0,70-100,70-100,Sierra Nevada,train
+dixie_4835_0,dixie,4835,0,1247,1013,0.07611083984375,0.8123,0-30,70-100,Sierra Nevada,train
+dixie_4835_1,dixie,4835,1,2612,2538,0.159423828125,0.9717,0-30,70-100,Sierra Nevada,train
+dixie_4835_3,dixie,4835,3,4989,4790,0.30450439453125,0.9601,30-70,70-100,Sierra Nevada,train
+dixie_4835_4,dixie,4835,4,3746,3667,0.2286376953125,0.9789,0-30,70-100,Sierra Nevada,train
+ranch_2728_0,ranch,2728,0,10560,1817,0.64453125,0.1721,30-70,0-30,Central Foothills,train
+ranch_2728_1,ranch,2728,1,9200,1263,0.5615234375,0.1373,30-70,0-30,Central Foothills,train
+ranch_2728_3,ranch,2728,3,5621,2362,0.34307861328125,0.4202,30-70,30-70,Central Foothills,train
+ranch_2728_4,ranch,2728,4,6284,5977,0.383544921875,0.9511,30-70,70-100,Central Foothills,train
+caldor_2425_0,caldor,2425,0,10361,4616,0.63238525390625,0.4455,30-70,30-70,Sierra Nevada,train
+caldor_2425_3,caldor,2425,3,9872,2934,0.6025390625,0.2972,30-70,0-30,Sierra Nevada,train
+caldor_2425_4,caldor,2425,4,10960,1197,0.6689453125,0.1092,30-70,0-30,Sierra Nevada,train
+dixie_318_0,dixie,318,0,7052,491,0.430419921875,0.0696,30-70,0-30,North Coast and Mountains,train
+dixie_318_4,dixie,318,4,7048,3039,0.43017578125,0.4312,30-70,30-70,North Coast and Mountains,train
+ranch_2502_0,ranch,2502,0,7112,1781,0.43408203125,0.2504,30-70,0-30,North Coast and Mountains,train
+ranch_2502_1,ranch,2502,1,7093,6413,0.43292236328125,0.9041,30-70,70-100,North Coast and Mountains,train
+ranch_2502_3,ranch,2502,3,5192,2869,0.31689453125,0.5526,30-70,30-70,North Coast and Mountains,train
+ranch_2502_4,ranch,2502,4,6333,4417,0.38653564453125,0.6975,30-70,30-70,North Coast and Mountains,train
+slater_219_0,slater,219,0,5689,2256,0.34722900390625,0.3966,30-70,30-70,North Coast and Mountains,train
+slater_219_1,slater,219,1,1192,718,0.07275390625,0.6023,0-30,30-70,North Coast and Mountains,train
+slater_219_4,slater,219,4,5617,4392,0.34283447265625,0.7819,30-70,70-100,North Coast and Mountains,train
+czulight_388_0,czulight,388,0,10264,10264,0.62646484375,1.0,30-70,70-100,North Coast and Mountains,train
+czulight_388_1,czulight,388,1,15754,15400,0.9615478515625,0.9775,70-100,70-100,North Coast and Mountains,train
+czulight_388_3,czulight,388,3,7575,7575,0.46234130859375,1.0,30-70,70-100,North Coast and Mountains,train
+czulight_388_4,czulight,388,4,15628,15148,0.953857421875,0.9693,70-100,70-100,North Coast and Mountains,train
+camp_1648_4,camp,1648,4,15593,5296,0.95172119140625,0.3396,70-100,30-70,Sierra Nevada,train
+ranch_2098_1,ranch,2098,1,12238,2824,0.7469482421875,0.2308,70-100,0-30,Central Foothills,train
+ranch_2098_3,ranch,2098,3,11957,1767,0.72979736328125,0.1478,70-100,0-30,Central Foothills,train
+ranch_2098_4,ranch,2098,4,7675,3031,0.46844482421875,0.3949,30-70,30-70,Central Foothills,train
+czulight_799_0,czulight,799,0,13162,2074,0.8033447265625,0.1576,70-100,0-30,North Coast and Mountains,train
+czulight_799_1,czulight,799,1,8985,6362,0.54840087890625,0.7081,30-70,70-100,North Coast and Mountains,train
+czulight_799_4,czulight,799,4,10535,5678,0.64300537109375,0.539,30-70,30-70,North Coast and Mountains,train
+dolan_971_0,dolan,971,0,3241,3035,0.19781494140625,0.9364,0-30,70-100,Central Foothills,train
+slater_378_0,slater,378,0,10178,477,0.6212158203125,0.0469,30-70,0-30,North Coast and Mountains,train
+slater_378_1,slater,378,1,7785,0,0.47515869140625,0.0,30-70,0-30,North Coast and Mountains,train
+slater_378_3,slater,378,3,10427,0,0.63641357421875,0.0,30-70,0-30,North Coast and Mountains,train
+slater_378_4,slater,378,4,7745,0,0.47271728515625,0.0,30-70,0-30,North Coast and Mountains,train
+czulight_1078_0,czulight,1078,0,15353,0,0.93707275390625,0.0,70-100,0-30,North Coast and Mountains,train
+czulight_1078_1,czulight,1078,1,15423,68,0.94134521484375,0.0044,70-100,0-30,North Coast and Mountains,train
+czulight_1078_3,czulight,1078,3,15332,120,0.935791015625,0.0078,70-100,0-30,North Coast and Mountains,train
+czulight_1078_4,czulight,1078,4,15990,24,0.9759521484375,0.0015,70-100,0-30,North Coast and Mountains,train
+ranch_1608_0,ranch,1608,0,9527,5230,0.58148193359375,0.549,30-70,30-70,North Coast and Mountains,train
+ranch_1608_4,ranch,1608,4,4392,2319,0.26806640625,0.528,0-30,30-70,Central Foothills,train
+czulight_206_0,czulight,206,0,14071,12216,0.85882568359375,0.8682,70-100,70-100,North Coast and Mountains,train
+czulight_206_1,czulight,206,1,15317,10968,0.93487548828125,0.7161,70-100,70-100,North Coast and Mountains,train
+czulight_206_3,czulight,206,3,14463,3829,0.88275146484375,0.2647,70-100,0-30,North Coast and Mountains,train
+caldor_1505_0,caldor,1505,0,11351,5036,0.69281005859375,0.4437,30-70,30-70,Sierra Nevada,train
+caldor_1505_1,caldor,1505,1,11202,4096,0.6837158203125,0.3656,30-70,30-70,Sierra Nevada,train
+caldor_1505_3,caldor,1505,3,10758,6411,0.6566162109375,0.5959,30-70,30-70,Sierra Nevada,train
+creek_2524_0,creek,2524,0,10015,8275,0.61126708984375,0.8263,30-70,70-100,Sierra Nevada,train
+creek_2524_4,creek,2524,4,12309,7545,0.75128173828125,0.613,70-100,30-70,Sierra Nevada,train
+stone_198_0,stone,198,0,8344,7906,0.50927734375,0.9475,30-70,70-100,North Coast and Mountains,train
+stone_198_1,stone,198,1,7768,7759,0.47412109375,0.9988,30-70,70-100,North Coast and Mountains,train
+stone_198_3,stone,198,3,8305,4427,0.50689697265625,0.5331,30-70,30-70,North Coast and Mountains,train
+northcomplex_1587_0,northcomplex,1587,0,15362,5352,0.9376220703125,0.3484,70-100,30-70,Sierra Nevada,train
+northcomplex_1587_1,northcomplex,1587,1,15103,1225,0.92181396484375,0.0811,70-100,0-30,Sierra Nevada,train
+northcomplex_1587_3,northcomplex,1587,3,16135,9414,0.98480224609375,0.5835,70-100,30-70,Sierra Nevada,train
+northcomplex_1587_4,northcomplex,1587,4,15788,7723,0.963623046875,0.4892,70-100,30-70,Sierra Nevada,train
+slater_221_0,slater,221,0,3024,3024,0.1845703125,1.0,0-30,70-100,North Coast and Mountains,train
+slater_221_3,slater,221,3,5257,4387,0.32086181640625,0.8345,30-70,70-100,North Coast and Mountains,train
+camp_1117_1,camp,1117,1,1144,1144,0.06982421875,1.0,0-30,70-100,Sierra Nevada,train
+camp_1117_3,camp,1117,3,5730,5730,0.3497314453125,1.0,30-70,70-100,Sierra Nevada,train
+ranch_3142_0,ranch,3142,0,1168,1168,0.0712890625,1.0,0-30,70-100,North Coast and Mountains,train
+ranch_3142_1,ranch,3142,1,1874,1874,0.1143798828125,1.0,0-30,70-100,North Coast and Mountains,train
+ranch_3142_4,ranch,3142,4,1297,1297,0.07916259765625,1.0,0-30,70-100,North Coast and Mountains,train
+alisal_129_0,alisal,129,0,13207,12,0.80609130859375,0.0009,70-100,0-30,South Coast and Mountains,train
+alisal_129_1,alisal,129,1,13632,63,0.83203125,0.0046,70-100,0-30,South Coast and Mountains,train
+alisal_129_3,alisal,129,3,13450,0,0.8209228515625,0.0,70-100,0-30,South Coast and Mountains,train
+alisal_129_4,alisal,129,4,13351,0,0.81488037109375,0.0,70-100,0-30,South Coast and Mountains,train
+river_316_0,river,316,0,5903,5767,0.36029052734375,0.977,30-70,70-100,Central Foothills,train
+dixie_5508_0,dixie,5508,0,6289,2270,0.38385009765625,0.3609,30-70,30-70,Sierra Nevada,train
+dixie_5508_1,dixie,5508,1,7306,2459,0.4459228515625,0.3366,30-70,30-70,Sierra Nevada,train
+dixie_5508_3,dixie,5508,3,7304,4170,0.44580078125,0.5709,30-70,30-70,Sierra Nevada,train
+dixie_5508_4,dixie,5508,4,9004,5308,0.549560546875,0.5895,30-70,30-70,Sierra Nevada,train
+czulight_165_1,czulight,165,1,8383,7153,0.51165771484375,0.8533,30-70,70-100,North Coast and Mountains,train
+czulight_165_4,czulight,165,4,15295,14201,0.93353271484375,0.9285,70-100,70-100,North Coast and Mountains,train
+ranch_2710_1,ranch,2710,1,9265,9039,0.56549072265625,0.9756,30-70,70-100,North Coast and Mountains,train
+ranch_2710_3,ranch,2710,3,12325,11964,0.75225830078125,0.9707,70-100,70-100,North Coast and Mountains,train
+camp_1249_0,camp,1249,0,10248,5178,0.62548828125,0.5053,30-70,30-70,Sierra Nevada,train
+camp_1249_3,camp,1249,3,9135,6039,0.55755615234375,0.6611,30-70,30-70,Sierra Nevada,train
+camp_1249_4,camp,1249,4,7493,5430,0.45733642578125,0.7247,30-70,70-100,Sierra Nevada,train
+northcomplex_4011_0,northcomplex,4011,0,11372,11201,0.694091796875,0.985,30-70,70-100,Sierra Nevada,train
+northcomplex_4011_1,northcomplex,4011,1,14112,7599,0.861328125,0.5385,70-100,30-70,Sierra Nevada,train
+northcomplex_4011_3,northcomplex,4011,3,10956,10925,0.668701171875,0.9972,30-70,70-100,Sierra Nevada,train
+northcomplex_4011_4,northcomplex,4011,4,13283,6795,0.81072998046875,0.5116,70-100,30-70,Sierra Nevada,train
+northcomplex_813_0,northcomplex,813,0,14059,14059,0.85809326171875,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_813_1,northcomplex,813,1,15129,15129,0.92340087890625,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_813_3,northcomplex,813,3,16013,16013,0.97735595703125,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_813_4,northcomplex,813,4,16031,16031,0.97845458984375,1.0,70-100,70-100,Sierra Nevada,train
+bobcat_1198_3,bobcat,1198,3,11207,2619,0.68402099609375,0.2337,30-70,0-30,South Coast and Mountains,train
+slater_341_0,slater,341,0,13998,12190,0.8543701171875,0.8708,70-100,70-100,North Coast and Mountains,train
+slater_341_1,slater,341,1,14600,2926,0.89111328125,0.2004,70-100,0-30,North Coast and Mountains,train
+slater_341_3,slater,341,3,11096,10965,0.67724609375,0.9882,30-70,70-100,North Coast and Mountains,train
+dolan_579_3,dolan,579,3,10449,3192,0.63775634765625,0.3055,30-70,30-70,Central Foothills,train
+river_704_1,river,704,1,2219,0,0.13543701171875,0.0,0-30,0-30,Central Foothills,train
+river_704_4,river,704,4,377,0,0.02301025390625,0.0,0-30,0-30,Central Foothills,train
+eldorado_348_0,eldorado,348,0,11516,4964,0.702880859375,0.4311,70-100,30-70,South Coast and Mountains,train
+eldorado_348_1,eldorado,348,1,11228,5119,0.685302734375,0.4559,30-70,30-70,South Coast and Mountains,train
+eldorado_348_3,eldorado,348,3,13039,223,0.79583740234375,0.0171,70-100,0-30,South Coast and Mountains,train
+eldorado_348_4,eldorado,348,4,10178,0,0.6212158203125,0.0,30-70,0-30,South Coast and Mountains,train
+northcomplex_811_0,northcomplex,811,0,6565,5557,0.40069580078125,0.8465,30-70,70-100,Sierra Nevada,train
+northcomplex_811_1,northcomplex,811,1,8983,8790,0.54827880859375,0.9785,30-70,70-100,Sierra Nevada,train
+northcomplex_811_3,northcomplex,811,3,13688,13665,0.83544921875,0.9983,70-100,70-100,Sierra Nevada,train
+northcomplex_811_4,northcomplex,811,4,13138,13092,0.8018798828125,0.9965,70-100,70-100,Sierra Nevada,train
+camp_1277_0,camp,1277,0,15137,31,0.92388916015625,0.002,70-100,0-30,Sierra Nevada,train
+camp_1277_1,camp,1277,1,15154,0,0.9249267578125,0.0,70-100,0-30,Sierra Nevada,train
+camp_1277_3,camp,1277,3,15485,18,0.94512939453125,0.0012,70-100,0-30,Sierra Nevada,train
+northcomplex_4007_0,northcomplex,4007,0,8994,35,0.5489501953125,0.0039,30-70,0-30,Sierra Nevada,train
+northcomplex_4007_1,northcomplex,4007,1,8555,368,0.52215576171875,0.043,30-70,0-30,Sierra Nevada,train
+northcomplex_4007_4,northcomplex,4007,4,6829,67,0.41680908203125,0.0098,30-70,0-30,Sierra Nevada,train
+camp_1505_0,camp,1505,0,11959,0,0.72991943359375,0.0,70-100,0-30,Sierra Nevada,train
+camp_1505_1,camp,1505,1,13715,0,0.83709716796875,0.0,70-100,0-30,Sierra Nevada,train
+camp_1505_3,camp,1505,3,13793,14,0.84185791015625,0.001,70-100,0-30,Sierra Nevada,train
+camp_1505_4,camp,1505,4,11654,0,0.7113037109375,0.0,70-100,0-30,Sierra Nevada,train
+northcomplex_1143_3,northcomplex,1143,3,4533,661,0.27667236328125,0.1458,0-30,0-30,Sierra Nevada,train
+northcomplex_1143_4,northcomplex,1143,4,8749,475,0.53399658203125,0.0543,30-70,0-30,Sierra Nevada,train
+czulight_629_0,czulight,629,0,407,146,0.02484130859375,0.3587,0-30,30-70,North Coast and Mountains,train
+czulight_629_3,czulight,629,3,210,0,0.0128173828125,0.0,0-30,0-30,North Coast and Mountains,train
+czulight_629_4,czulight,629,4,169,4,0.01031494140625,0.0237,0-30,0-30,North Coast and Mountains,train
+camp_1465_0,camp,1465,0,5198,5198,0.3172607421875,1.0,30-70,70-100,Sierra Nevada,train
+camp_1465_1,camp,1465,1,5340,5340,0.325927734375,1.0,30-70,70-100,Sierra Nevada,train
+camp_1465_4,camp,1465,4,4353,4353,0.26568603515625,1.0,0-30,70-100,Sierra Nevada,train
+river_466_0,river,466,0,1801,1424,0.10992431640625,0.7907,0-30,70-100,Central Foothills,train
+river_466_1,river,466,1,1682,1589,0.1026611328125,0.9447,0-30,70-100,Central Foothills,train
+river_466_3,river,466,3,11715,6275,0.71502685546875,0.5356,70-100,30-70,Central Foothills,train
+ranch_2921_0,ranch,2921,0,11632,2250,0.7099609375,0.1934,70-100,0-30,North Coast and Mountains,train
+ranch_2921_1,ranch,2921,1,7270,4796,0.4437255859375,0.6597,30-70,30-70,North Coast and Mountains,train
+ranch_2921_3,ranch,2921,3,6150,5894,0.3753662109375,0.9584,30-70,70-100,North Coast and Mountains,train
+stone_372_0,stone,372,0,7350,6616,0.4486083984375,0.9001,30-70,70-100,North Coast and Mountains,train
+stone_372_3,stone,372,3,5383,2929,0.32855224609375,0.5441,30-70,30-70,North Coast and Mountains,train
+czulight_417_0,czulight,417,0,11163,2575,0.68133544921875,0.2307,30-70,0-30,North Coast and Mountains,train
+czulight_417_4,czulight,417,4,11663,9006,0.71185302734375,0.7722,70-100,70-100,North Coast and Mountains,train
+alisal_103_3,alisal,103,3,985,648,0.06011962890625,0.6579,0-30,30-70,South Coast and Mountains,train
+dixie_337_0,dixie,337,0,9496,3175,0.57958984375,0.3344,30-70,30-70,North Coast and Mountains,train
+dixie_337_3,dixie,337,3,7717,3653,0.47100830078125,0.4734,30-70,30-70,North Coast and Mountains,train
+dixie_337_4,dixie,337,4,10549,9943,0.64385986328125,0.9426,30-70,70-100,North Coast and Mountains,train
+camp_1470_0,camp,1470,0,9743,2123,0.59466552734375,0.2179,30-70,0-30,Sierra Nevada,train
+camp_1470_1,camp,1470,1,5992,3323,0.36572265625,0.5546,30-70,30-70,Sierra Nevada,train
+ranch_1385_0,ranch,1385,0,12398,3751,0.7567138671875,0.3025,70-100,30-70,North Coast and Mountains,train
+ranch_1385_1,ranch,1385,1,12886,9357,0.7864990234375,0.7261,70-100,70-100,North Coast and Mountains,train
+ranch_1385_3,ranch,1385,3,12275,1007,0.74920654296875,0.082,70-100,0-30,North Coast and Mountains,train
+ranch_1385_4,ranch,1385,4,13617,3558,0.83111572265625,0.2613,70-100,0-30,North Coast and Mountains,train
+caldor_2082_1,caldor,2082,1,7485,65,0.45684814453125,0.0087,30-70,0-30,Sierra Nevada,train
+camp_1211_0,camp,1211,0,10171,7659,0.62078857421875,0.753,30-70,70-100,Central Foothills,train
+camp_1211_1,camp,1211,1,10974,9080,0.6697998046875,0.8274,30-70,70-100,Central Foothills,train
+eldorado_110_1,eldorado,110,1,369,369,0.02252197265625,1.0,0-30,70-100,South Coast and Mountains,train
+czulight_673_1,czulight,673,1,7496,2726,0.45751953125,0.3637,30-70,30-70,North Coast and Mountains,train
+czulight_673_3,czulight,673,3,6180,6180,0.377197265625,1.0,30-70,70-100,North Coast and Mountains,train
+camp_1198_0,camp,1198,0,4186,4186,0.2554931640625,1.0,0-30,70-100,Sierra Nevada,train
+camp_1198_1,camp,1198,1,5812,5780,0.354736328125,0.9945,30-70,70-100,Sierra Nevada,train
+camp_1198_4,camp,1198,4,9223,9223,0.56292724609375,1.0,30-70,70-100,Sierra Nevada,train
+dixie_344_0,dixie,344,0,10924,7797,0.666748046875,0.7137,30-70,70-100,North Coast and Mountains,train
+dixie_344_3,dixie,344,3,7898,6493,0.4820556640625,0.8221,30-70,70-100,North Coast and Mountains,train
+dixie_344_4,dixie,344,4,10514,10514,0.6417236328125,1.0,30-70,70-100,North Coast and Mountains,train
+bobcat_715_4,bobcat,715,4,2006,410,0.1224365234375,0.2044,0-30,0-30,South Coast and Mountains,train
+stone_300_0,stone,300,0,9625,9557,0.58746337890625,0.9929,30-70,70-100,North Coast and Mountains,train
+stone_300_1,stone,300,1,10010,10010,0.6109619140625,1.0,30-70,70-100,North Coast and Mountains,train
+stone_300_3,stone,300,3,9918,9515,0.6053466796875,0.9594,30-70,70-100,North Coast and Mountains,train
+stone_300_4,stone,300,4,10138,9653,0.6187744140625,0.9522,30-70,70-100,North Coast and Mountains,train
+dixie_4458_0,dixie,4458,0,2737,2375,0.16705322265625,0.8677,0-30,70-100,Sierra Nevada,train
+dixie_4458_1,dixie,4458,1,7236,7133,0.441650390625,0.9858,30-70,70-100,Sierra Nevada,train
+dixie_4458_3,dixie,4458,3,6631,6510,0.40472412109375,0.9818,30-70,70-100,Sierra Nevada,train
+dixie_4458_4,dixie,4458,4,8856,7918,0.54052734375,0.8941,30-70,70-100,Sierra Nevada,train
+camp_1172_0,camp,1172,0,5569,1907,0.33990478515625,0.3424,30-70,30-70,Central Foothills,train
+camp_1172_1,camp,1172,1,13156,8043,0.802978515625,0.6114,70-100,30-70,Central Foothills,train
+camp_1172_3,camp,1172,3,2598,607,0.1585693359375,0.2336,0-30,0-30,Central Foothills,train
+camp_1172_4,camp,1172,4,5658,3118,0.3453369140625,0.5511,30-70,30-70,Central Foothills,train
+ranch_2588_1,ranch,2588,1,10146,1486,0.6192626953125,0.1465,30-70,0-30,Central Foothills,train
+ranch_2588_3,ranch,2588,3,11054,834,0.6746826171875,0.0754,30-70,0-30,Central Foothills,train
+eldorado_47_0,eldorado,47,0,2746,0,0.1676025390625,0.0,0-30,0-30,South Coast and Mountains,train
+eldorado_47_1,eldorado,47,1,4122,0,0.2515869140625,0.0,0-30,0-30,South Coast and Mountains,train
+eldorado_47_3,eldorado,47,3,5283,0,0.32244873046875,0.0,30-70,0-30,South Coast and Mountains,train
+eldorado_47_4,eldorado,47,4,8097,0,0.49420166015625,0.0,30-70,0-30,South Coast and Mountains,train
+river_415_1,river,415,1,5936,5543,0.3623046875,0.9338,30-70,70-100,Central Foothills,train
+river_415_3,river,415,3,6638,5808,0.4051513671875,0.875,30-70,70-100,Central Foothills,train
+river_415_4,river,415,4,3194,3161,0.1949462890625,0.9897,0-30,70-100,Central Foothills,train
+river_373_0,river,373,0,1814,1466,0.1107177734375,0.8082,0-30,70-100,Central Foothills,train
+river_373_3,river,373,3,5286,1153,0.3226318359375,0.2181,30-70,0-30,Central Foothills,train
+river_373_4,river,373,4,6527,802,0.39837646484375,0.1229,30-70,0-30,Central Foothills,train
+camp_1562_0,camp,1562,0,15675,7694,0.95672607421875,0.4908,70-100,30-70,Sierra Nevada,train
+camp_1562_1,camp,1562,1,15730,2562,0.9600830078125,0.1629,70-100,0-30,Sierra Nevada,train
+alisal_212_0,alisal,212,0,4735,1898,0.28900146484375,0.4008,0-30,30-70,South Coast and Mountains,train
+alisal_212_1,alisal,212,1,1480,965,0.09033203125,0.652,0-30,30-70,South Coast and Mountains,train
+alisal_212_3,alisal,212,3,6274,3491,0.3829345703125,0.5564,30-70,30-70,South Coast and Mountains,train
+camp_847_0,camp,847,0,12550,6600,0.7659912109375,0.5259,70-100,30-70,North Coast and Mountains,train
+camp_847_1,camp,847,1,11708,9481,0.714599609375,0.8098,70-100,70-100,North Coast and Mountains,train
+camp_847_3,camp,847,3,12881,17,0.78619384765625,0.0013,70-100,0-30,North Coast and Mountains,train
+camp_890_0,camp,890,0,11967,0,0.73040771484375,0.0,70-100,0-30,North Coast and Mountains,train
+camp_890_1,camp,890,1,13005,218,0.79376220703125,0.0168,70-100,0-30,North Coast and Mountains,train
+camp_890_3,camp,890,3,11768,74,0.71826171875,0.0063,70-100,0-30,North Coast and Mountains,train
+camp_890_4,camp,890,4,13092,25,0.799072265625,0.0019,70-100,0-30,North Coast and Mountains,train
+dolan_1139_3,dolan,1139,3,5142,1255,0.3138427734375,0.2441,30-70,0-30,Central Foothills,train
+dolan_1139_4,dolan,1139,4,8493,7382,0.51837158203125,0.8692,30-70,70-100,Central Foothills,train
+caldor_3176_0,caldor,3176,0,9029,7010,0.55108642578125,0.7764,30-70,70-100,Sierra Nevada,train
+caldor_3176_1,caldor,3176,1,7835,6588,0.47821044921875,0.8408,30-70,70-100,Sierra Nevada,train
+caldor_3176_3,caldor,3176,3,8314,6762,0.5074462890625,0.8133,30-70,70-100,Sierra Nevada,train
+caldor_3176_4,caldor,3176,4,6546,5114,0.3995361328125,0.7812,30-70,70-100,Sierra Nevada,train
+ranch_1108_0,ranch,1108,0,12500,7019,0.762939453125,0.5615,70-100,30-70,North Coast and Mountains,train
+ranch_1108_3,ranch,1108,3,13347,11049,0.81463623046875,0.8278,70-100,70-100,North Coast and Mountains,train
+dolan_734_0,dolan,734,0,8431,313,0.51458740234375,0.0371,30-70,0-30,Central Foothills,train
+dolan_734_4,dolan,734,4,5432,327,0.33154296875,0.0602,30-70,0-30,Central Foothills,train
+caldor_2081_0,caldor,2081,0,13328,11521,0.8134765625,0.8644,70-100,70-100,Sierra Nevada,train
+caldor_2081_1,caldor,2081,1,13739,12382,0.83856201171875,0.9012,70-100,70-100,Sierra Nevada,train
+caldor_2081_3,caldor,2081,3,12674,2914,0.7735595703125,0.2299,70-100,0-30,Sierra Nevada,train
+caldor_2081_4,caldor,2081,4,12702,3915,0.7752685546875,0.3082,70-100,30-70,Sierra Nevada,train
+camp_1372_0,camp,1372,0,11307,8997,0.69012451171875,0.7957,30-70,70-100,Sierra Nevada,train
+camp_1372_1,camp,1372,1,7452,2246,0.454833984375,0.3014,30-70,30-70,Sierra Nevada,train
+camp_1372_4,camp,1372,4,14486,4125,0.8841552734375,0.2848,70-100,0-30,Sierra Nevada,train
+ranch_2549_0,ranch,2549,0,13989,1863,0.85382080078125,0.1332,70-100,0-30,North Coast and Mountains,train
+ranch_2549_1,ranch,2549,1,13750,1393,0.8392333984375,0.1013,70-100,0-30,North Coast and Mountains,train
+ranch_2549_3,ranch,2549,3,13830,1268,0.8441162109375,0.0917,70-100,0-30,North Coast and Mountains,train
+ranch_2549_4,ranch,2549,4,14229,1119,0.86846923828125,0.0786,70-100,0-30,North Coast and Mountains,train
+ranch_2575_0,ranch,2575,0,8539,8527,0.52117919921875,0.9986,30-70,70-100,North Coast and Mountains,train
+ranch_2575_1,ranch,2575,1,9499,9471,0.57977294921875,0.9971,30-70,70-100,North Coast and Mountains,train
+ranch_2575_3,ranch,2575,3,11572,11570,0.706298828125,0.9998,70-100,70-100,North Coast and Mountains,train
+ranch_2575_4,ranch,2575,4,6289,5959,0.38385009765625,0.9475,30-70,70-100,North Coast and Mountains,train
+camp_1158_0,camp,1158,0,6454,6421,0.3939208984375,0.9949,30-70,70-100,Sierra Nevada,train
+camp_1158_4,camp,1158,4,9487,9214,0.57904052734375,0.9712,30-70,70-100,Sierra Nevada,train
+northcomplex_1250_0,northcomplex,1250,0,15698,15659,0.9581298828125,0.9975,70-100,70-100,Sierra Nevada,train
+northcomplex_1250_1,northcomplex,1250,1,15392,15339,0.939453125,0.9966,70-100,70-100,Sierra Nevada,train
+northcomplex_1250_3,northcomplex,1250,3,15890,15890,0.9698486328125,1.0,70-100,70-100,Sierra Nevada,train
+northcomplex_1250_4,northcomplex,1250,4,14835,14835,0.90545654296875,1.0,70-100,70-100,Sierra Nevada,train
+ranch_1901_0,ranch,1901,0,1523,1500,0.09295654296875,0.9849,0-30,70-100,Central Foothills,train
+dixie_4328_0,dixie,4328,0,0,0,0.0,0.0,0-30,0-30,North Coast and Mountains,train
+dixie_4328_1,dixie,4328,1,3503,2667,0.21380615234375,0.7613,0-30,70-100,North Coast and Mountains,train
+dixie_4328_3,dixie,4328,3,0,0,0.0,0.0,0-30,0-30,North Coast and Mountains,train
+dixie_4328_4,dixie,4328,4,461,433,0.02813720703125,0.9393,0-30,70-100,North Coast and Mountains,train
+camp_1373_0,camp,1373,0,7381,7260,0.45050048828125,0.9836,30-70,70-100,Sierra Nevada,train
+camp_1373_1,camp,1373,1,6156,5355,0.375732421875,0.8699,30-70,70-100,Sierra Nevada,train
+camp_1373_4,camp,1373,4,2717,2514,0.16583251953125,0.9253,0-30,70-100,Sierra Nevada,train
+czulight_705_0,czulight,705,0,15061,664,0.91925048828125,0.0441,70-100,0-30,North Coast and Mountains,train
+czulight_705_1,czulight,705,1,14641,0,0.89361572265625,0.0,70-100,0-30,North Coast and Mountains,train
+ranch_2428_3,ranch,2428,3,6706,6681,0.4093017578125,0.9963,30-70,70-100,Central Foothills,train
+ranch_2428_4,ranch,2428,4,5968,5860,0.3642578125,0.9819,30-70,70-100,Central Foothills,train
+czulight_275_0,czulight,275,0,9377,9134,0.57232666015625,0.9741,30-70,70-100,North Coast and Mountains,train
+czulight_275_1,czulight,275,1,12681,12563,0.77398681640625,0.9907,70-100,70-100,North Coast and Mountains,train
+czulight_275_4,czulight,275,4,11536,11465,0.7041015625,0.9938,70-100,70-100,North Coast and Mountains,train
+ranch_2438_0,ranch,2438,0,10229,1447,0.62432861328125,0.1415,30-70,0-30,North Coast and Mountains,train
+ranch_2438_1,ranch,2438,1,9158,6977,0.5589599609375,0.7618,30-70,70-100,North Coast and Mountains,train
+ranch_2438_3,ranch,2438,3,7419,4372,0.45281982421875,0.5893,30-70,30-70,North Coast and Mountains,train
+ranch_2438_4,ranch,2438,4,8713,3384,0.53179931640625,0.3884,30-70,30-70,North Coast and Mountains,train
+stone_90_0,stone,90,0,11513,9887,0.70269775390625,0.8588,70-100,70-100,North Coast and Mountains,train
+stone_90_1,stone,90,1,7648,6969,0.466796875,0.9112,30-70,70-100,North Coast and Mountains,train
+stone_90_3,stone,90,3,9802,9189,0.5982666015625,0.9375,30-70,70-100,North Coast and Mountains,train
+stone_90_4,stone,90,4,4664,2507,0.28466796875,0.5375,0-30,30-70,North Coast and Mountains,train
+camp_1565_1,camp,1565,1,13386,3857,0.8170166015625,0.2881,70-100,0-30,Sierra Nevada,train
+camp_1565_3,camp,1565,3,14517,7794,0.88604736328125,0.5369,70-100,30-70,Sierra Nevada,train
+river_360_1,river,360,1,6888,6834,0.42041015625,0.9922,30-70,70-100,Central Foothills,train
+river_360_3,river,360,3,9000,8102,0.54931640625,0.9002,30-70,70-100,Central Foothills,train
+slater_294_0,slater,294,0,9002,6399,0.5494384765625,0.7108,30-70,70-100,North Coast and Mountains,train
+slater_294_1,slater,294,1,8355,8355,0.50994873046875,1.0,30-70,70-100,North Coast and Mountains,train
+slater_294_3,slater,294,3,5389,5025,0.32891845703125,0.9325,30-70,70-100,North Coast and Mountains,train
+slater_294_4,slater,294,4,9522,9504,0.5811767578125,0.9981,30-70,70-100,North Coast and Mountains,train
+caldor_3013_0,caldor,3013,0,2947,308,0.17987060546875,0.1045,0-30,0-30,Sierra Nevada,train
+caldor_3013_1,caldor,3013,1,2978,190,0.1817626953125,0.0638,0-30,0-30,Sierra Nevada,train
+caldor_3013_3,caldor,3013,3,1235,449,0.07537841796875,0.3636,0-30,30-70,Sierra Nevada,train
+caldor_3013_4,caldor,3013,4,3579,151,0.21844482421875,0.0422,0-30,0-30,Sierra Nevada,train
+stone_474_0,stone,474,0,2837,2769,0.17315673828125,0.976,0-30,70-100,North Coast and Mountains,train
+stone_474_1,stone,474,1,3930,3654,0.2398681640625,0.9298,0-30,70-100,North Coast and Mountains,train
+stone_474_3,stone,474,3,3924,3158,0.239501953125,0.8048,0-30,70-100,North Coast and Mountains,train
+stone_474_4,stone,474,4,2257,1754,0.13775634765625,0.7771,0-30,70-100,North Coast and Mountains,train
+creek_2619_0,creek,2619,0,9059,9029,0.55291748046875,0.9967,30-70,70-100,Sierra Nevada,train
+creek_2619_1,creek,2619,1,7607,7607,0.46429443359375,1.0,30-70,70-100,Sierra Nevada,train
+creek_2619_3,creek,2619,3,11449,11449,0.69879150390625,1.0,30-70,70-100,Sierra Nevada,train
+creek_2619_4,creek,2619,4,9108,9108,0.555908203125,1.0,30-70,70-100,Sierra Nevada,train
+eldorado_41_0,eldorado,41,0,3849,0,0.23492431640625,0.0,0-30,0-30,South Coast and Mountains,train
+eldorado_41_1,eldorado,41,1,1046,0,0.0638427734375,0.0,0-30,0-30,South Coast and Mountains,train
+eldorado_41_3,eldorado,41,3,2538,0,0.1549072265625,0.0,0-30,0-30,South Coast and Mountains,train
+eldorado_41_4,eldorado,41,4,1310,0,0.0799560546875,0.0,0-30,0-30,South Coast and Mountains,train
+alisal_58_1,alisal,58,1,9771,0,0.59637451171875,0.0,30-70,0-30,South Coast and Mountains,train
+alisal_58_3,alisal,58,3,7731,0,0.47186279296875,0.0,30-70,0-30,South Coast and Mountains,train
+alisal_58_4,alisal,58,4,9551,0,0.58294677734375,0.0,30-70,0-30,South Coast and Mountains,train
+czulight_310_0,czulight,310,0,12710,12276,0.7757568359375,0.9659,70-100,70-100,North Coast and Mountains,train
+czulight_310_1,czulight,310,1,14688,10215,0.896484375,0.6955,70-100,30-70,North Coast and Mountains,train
+czulight_310_3,czulight,310,3,13619,13501,0.83123779296875,0.9913,70-100,70-100,North Coast and Mountains,train
+czulight_310_4,czulight,310,4,14660,13419,0.894775390625,0.9153,70-100,70-100,North Coast and Mountains,train
+alisal_162_3,alisal,162,3,6195,2224,0.37811279296875,0.359,30-70,30-70,South Coast and Mountains,train
+ranch_2565_1,ranch,2565,1,7037,4,0.42950439453125,0.0006,30-70,0-30,Central Foothills,train
+ranch_2565_3,ranch,2565,3,7933,0,0.48419189453125,0.0,30-70,0-30,Central Foothills,train
+ranch_2565_4,ranch,2565,4,5766,0,0.3519287109375,0.0,30-70,0-30,Central Foothills,train
+creek_3089_1,creek,3089,1,9019,0,0.55047607421875,0.0,30-70,0-30,Sierra Nevada,train
+creek_3089_3,creek,3089,3,6275,12,0.38299560546875,0.0019,30-70,0-30,Sierra Nevada,train
+creek_3089_4,creek,3089,4,6594,38,0.4024658203125,0.0058,30-70,0-30,Sierra Nevada,train
+eldorado_117_0,eldorado,117,0,8962,0,0.5469970703125,0.0,30-70,0-30,South Coast and Mountains,train
+eldorado_117_1,eldorado,117,1,9492,0,0.579345703125,0.0,30-70,0-30,South Coast and Mountains,train
+eldorado_117_4,eldorado,117,4,4422,0,0.2698974609375,0.0,0-30,0-30,South Coast and Mountains,train
+river_573_1,river,573,1,4223,4103,0.25775146484375,0.9716,0-30,70-100,Central Foothills,train
+river_573_3,river,573,3,6596,6498,0.402587890625,0.9851,30-70,70-100,Central Foothills,train
+caldor_2278_0,caldor,2278,0,13945,6575,0.85113525390625,0.4715,70-100,30-70,Sierra Nevada,train
+caldor_2278_1,caldor,2278,1,10841,1791,0.66168212890625,0.1652,30-70,0-30,Sierra Nevada,train
+caldor_2278_3,caldor,2278,3,10352,688,0.6318359375,0.0665,30-70,0-30,Sierra Nevada,train
+caldor_2278_4,caldor,2278,4,8787,2801,0.53631591796875,0.3188,30-70,30-70,Sierra Nevada,train
+northcomplex_1493_0,northcomplex,1493,0,10919,10919,0.66644287109375,1.0,30-70,70-100,Sierra Nevada,train
+northcomplex_1493_1,northcomplex,1493,1,7784,7784,0.47509765625,1.0,30-70,70-100,Sierra Nevada,train
+northcomplex_1493_3,northcomplex,1493,3,10589,10589,0.64630126953125,1.0,30-70,70-100,Sierra Nevada,train
+northcomplex_1493_4,northcomplex,1493,4,10701,10701,0.65313720703125,1.0,30-70,70-100,Sierra Nevada,train
+ranch_1683_1,ranch,1683,1,7524,7074,0.459228515625,0.9402,30-70,70-100,Central Foothills,train
+alisal_202_0,alisal,202,0,13305,0,0.81207275390625,0.0,70-100,0-30,South Coast and Mountains,train
+alisal_202_1,alisal,202,1,11518,0,0.7030029296875,0.0,70-100,0-30,South Coast and Mountains,train
+alisal_202_3,alisal,202,3,10055,0,0.61370849609375,0.0,30-70,0-30,South Coast and Mountains,train
+alisal_202_4,alisal,202,4,13396,0,0.817626953125,0.0,70-100,0-30,South Coast and Mountains,train
+camp_1200_1,camp,1200,1,14576,12416,0.8896484375,0.8518,70-100,70-100,Sierra Nevada,train
+camp_1200_3,camp,1200,3,6632,2778,0.40478515625,0.4189,30-70,30-70,Sierra Nevada,train
+camp_1200_4,camp,1200,4,8363,4446,0.51043701171875,0.5316,30-70,30-70,Sierra Nevada,train
+dixie_4059_0,dixie,4059,0,11047,10214,0.67425537109375,0.9246,30-70,70-100,North Coast and Mountains,train
+dixie_4059_1,dixie,4059,1,10553,10214,0.64410400390625,0.9679,30-70,70-100,North Coast and Mountains,train
+dixie_4059_3,dixie,4059,3,10567,6192,0.64495849609375,0.586,30-70,30-70,North Coast and Mountains,train
+dixie_4059_4,dixie,4059,4,9367,8867,0.57171630859375,0.9466,30-70,70-100,North Coast and Mountains,train
+czulight_892_0,czulight,892,0,5770,1137,0.3521728515625,0.1971,30-70,0-30,North Coast and Mountains,train
+czulight_892_1,czulight,892,1,6521,5204,0.39801025390625,0.798,30-70,70-100,North Coast and Mountains,train
+czulight_892_3,czulight,892,3,2274,165,0.1387939453125,0.0726,0-30,0-30,North Coast and Mountains,train
+alisal_99_0,alisal,99,0,3977,1761,0.24273681640625,0.4428,0-30,30-70,South Coast and Mountains,train
+alisal_99_1,alisal,99,1,57,57,0.00347900390625,1.0,0-30,70-100,South Coast and Mountains,train
+alisal_99_4,alisal,99,4,1166,1166,0.0711669921875,1.0,0-30,70-100,South Coast and Mountains,train
+eldorado_262_1,eldorado,262,1,13170,4147,0.8038330078125,0.3149,70-100,30-70,South Coast and Mountains,train
+eldorado_262_4,eldorado,262,4,10240,873,0.625,0.0853,30-70,0-30,South Coast and Mountains,train
+bobcat_711_4,bobcat,711,4,15070,2441,0.9197998046875,0.162,70-100,0-30,South Coast and Mountains,train
+czulight_893_1,czulight,893,1,5345,2738,0.32623291015625,0.5123,30-70,30-70,North Coast and Mountains,train
+czulight_893_3,czulight,893,3,10494,119,0.6405029296875,0.0113,30-70,0-30,North Coast and Mountains,train
+czulight_893_4,czulight,893,4,14024,2800,0.85595703125,0.1997,70-100,0-30,North Coast and Mountains,train
+monument_2298_1,monument,2298,1,10017,3519,0.61138916015625,0.3513,30-70,30-70,North Coast and Mountains,train
+monument_2298_4,monument,2298,4,7587,1953,0.46307373046875,0.2574,30-70,0-30,North Coast and Mountains,train
+czulight_930_0,czulight,930,0,15812,1108,0.965087890625,0.0701,70-100,0-30,North Coast and Mountains,train
+czulight_930_3,czulight,930,3,16000,2049,0.9765625,0.1281,70-100,0-30,North Coast and Mountains,train
+caldor_1570_0,caldor,1570,0,11918,11918,0.7274169921875,1.0,70-100,70-100,Sierra Nevada,train
+caldor_1570_1,caldor,1570,1,9512,9512,0.58056640625,1.0,30-70,70-100,Sierra Nevada,train
+caldor_1570_4,caldor,1570,4,10152,10152,0.61962890625,1.0,30-70,70-100,Sierra Nevada,train
+northcomplex_1323_0,northcomplex,1323,0,12710,11805,0.7757568359375,0.9288,70-100,70-100,Sierra Nevada,train
+northcomplex_1323_1,northcomplex,1323,1,12123,1569,0.73992919921875,0.1294,70-100,0-30,Sierra Nevada,train
+northcomplex_1323_3,northcomplex,1323,3,10904,6709,0.66552734375,0.6153,30-70,30-70,Sierra Nevada,train
+northcomplex_1323_4,northcomplex,1323,4,13153,2540,0.80279541015625,0.1931,70-100,0-30,Sierra Nevada,train
+ranch_1669_0,ranch,1669,0,10695,3850,0.65277099609375,0.36,30-70,30-70,North Coast and Mountains,train
+ranch_1669_1,ranch,1669,1,9149,4931,0.55841064453125,0.539,30-70,30-70,North Coast and Mountains,train
+ranch_1669_3,ranch,1669,3,6292,5086,0.384033203125,0.8083,30-70,70-100,North Coast and Mountains,train
+ranch_1669_4,ranch,1669,4,10032,7121,0.6123046875,0.7098,30-70,70-100,North Coast and Mountains,train
+czulight_646_4,czulight,646,4,4961,2483,0.30279541015625,0.5005,30-70,30-70,North Coast and Mountains,test
+northcomplex_4134_0,northcomplex,4134,0,14616,1357,0.89208984375,0.0928,70-100,0-30,Sierra Nevada,test
+eldorado_67_1,eldorado,67,1,60,0,0.003662109375,0.0,0-30,0-30,South Coast and Mountains,test
+eldorado_67_4,eldorado,67,4,690,9,0.0421142578125,0.013,0-30,0-30,South Coast and Mountains,test
+dolan_1086_0,dolan,1086,0,15664,1283,0.9560546875,0.0819,70-100,0-30,Central Foothills,test
+dolan_1086_3,dolan,1086,3,12461,2508,0.76055908203125,0.2013,70-100,0-30,Central Foothills,test
+dolan_1086_4,dolan,1086,4,12066,5105,0.7364501953125,0.4231,70-100,30-70,Central Foothills,test
+ranch_1088_0,ranch,1088,0,6817,1647,0.41607666015625,0.2416,30-70,0-30,Central Foothills,test
+ranch_1088_1,ranch,1088,1,6005,680,0.36651611328125,0.1132,30-70,0-30,Central Foothills,test
+ranch_1088_4,ranch,1088,4,5319,1473,0.32464599609375,0.2769,30-70,0-30,Central Foothills,test
+monument_2690_1,monument,2690,1,15254,15251,0.9310302734375,0.9998,70-100,70-100,North Coast and Mountains,test
+creek_3092_0,creek,3092,0,7155,2816,0.43670654296875,0.3936,30-70,30-70,Sierra Nevada,test
+creek_3092_1,creek,3092,1,5632,1683,0.34375,0.2988,30-70,0-30,Sierra Nevada,test
+creek_3092_4,creek,3092,4,3376,2995,0.2060546875,0.8871,0-30,70-100,Sierra Nevada,test
+camp_1392_1,camp,1392,1,8384,4360,0.51171875,0.52,30-70,30-70,Central Foothills,test
+camp_1392_3,camp,1392,3,7923,6415,0.48358154296875,0.8097,30-70,70-100,Central Foothills,test
+northcomplex_1930_1,northcomplex,1930,1,11220,11171,0.684814453125,0.9956,30-70,70-100,Sierra Nevada,test
+dolan_893_0,dolan,893,0,14191,75,0.86614990234375,0.0053,70-100,0-30,Central Foothills,test
+dolan_893_4,dolan,893,4,7034,2010,0.4293212890625,0.2858,30-70,0-30,Central Foothills,test
+ranch_2436_4,ranch,2436,4,8743,7662,0.53363037109375,0.8764,30-70,70-100,North Coast and Mountains,test
+dolan_1697_4,dolan,1697,4,11290,162,0.6890869140625,0.0143,30-70,0-30,Central Foothills,test
+alisal_153_3,alisal,153,3,15915,100,0.97137451171875,0.0063,70-100,0-30,South Coast and Mountains,test
+alisal_153_4,alisal,153,4,11052,552,0.674560546875,0.0499,30-70,0-30,South Coast and Mountains,test
+eldorado_70_0,eldorado,70,0,11792,0,0.7197265625,0.0,70-100,0-30,South Coast and Mountains,test
+dixie_399_0,dixie,399,0,8814,1187,0.5379638671875,0.1347,30-70,0-30,North Coast and Mountains,test
+camp_1637_0,camp,1637,0,11248,5038,0.6865234375,0.4479,30-70,30-70,Sierra Nevada,test
+monument_2687_3,monument,2687,3,15209,15146,0.92828369140625,0.9959,70-100,70-100,North Coast and Mountains,test
+alisal_146_4,alisal,146,4,1133,1112,0.06915283203125,0.9815,0-30,70-100,South Coast and Mountains,test
+bobcat_291_0,bobcat,291,0,14766,277,0.9012451171875,0.0188,70-100,0-30,South Coast and Mountains,test
+bobcat_291_3,bobcat,291,3,15504,252,0.9462890625,0.0163,70-100,0-30,South Coast and Mountains,test
+bobcat_291_4,bobcat,291,4,15628,2746,0.953857421875,0.1757,70-100,0-30,South Coast and Mountains,test
+camp_1385_0,camp,1385,0,5695,3539,0.34759521484375,0.6214,30-70,30-70,Sierra Nevada,test
+ranch_2031_0,ranch,2031,0,4086,1851,0.2493896484375,0.453,0-30,30-70,Central Foothills,test
+river_231_0,river,231,0,9045,6900,0.55206298828125,0.7629,30-70,70-100,Central Foothills,test
+river_231_1,river,231,1,11572,8373,0.706298828125,0.7236,70-100,70-100,Central Foothills,test
+river_231_3,river,231,3,13968,2284,0.8525390625,0.1635,70-100,0-30,Central Foothills,test
+river_231_4,river,231,4,13339,2784,0.81414794921875,0.2087,70-100,0-30,Central Foothills,test
+northcomplex_3275_3,northcomplex,3275,3,14244,14208,0.869384765625,0.9975,70-100,70-100,Sierra Nevada,test
+northcomplex_3275_4,northcomplex,3275,4,14521,14521,0.88629150390625,1.0,70-100,70-100,Sierra Nevada,test
+ranch_3065_0,ranch,3065,0,2087,2027,0.12738037109375,0.9713,0-30,70-100,North Coast and Mountains,test
+ranch_3065_3,ranch,3065,3,2144,2071,0.130859375,0.966,0-30,70-100,Central Foothills,test
+czulight_532_1,czulight,532,1,5822,5822,0.3553466796875,1.0,30-70,70-100,North Coast and Mountains,test
+ranch_1879_0,ranch,1879,0,15170,6597,0.9259033203125,0.4349,70-100,30-70,North Coast and Mountains,test
+ranch_1879_1,ranch,1879,1,12083,3037,0.73748779296875,0.2513,70-100,0-30,North Coast and Mountains,test
+ranch_1879_3,ranch,1879,3,12408,6606,0.75732421875,0.5324,70-100,30-70,North Coast and Mountains,test
+bobcat_336_0,bobcat,336,0,15321,3670,0.93511962890625,0.2395,70-100,0-30,South Coast and Mountains,test
+bobcat_336_3,bobcat,336,3,14131,6051,0.86248779296875,0.4282,70-100,30-70,South Coast and Mountains,test
+bobcat_336_4,bobcat,336,4,15261,5828,0.93145751953125,0.3819,70-100,30-70,South Coast and Mountains,test
+ranch_2021_1,ranch,2021,1,14173,3966,0.86505126953125,0.2798,70-100,0-30,North Coast and Mountains,test
+ranch_2021_3,ranch,2021,3,14011,5906,0.85516357421875,0.4215,70-100,30-70,North Coast and Mountains,test
+camp_1168_0,camp,1168,0,15382,12974,0.9388427734375,0.8435,70-100,70-100,Central Foothills,test
+camp_1168_1,camp,1168,1,15318,13144,0.9349365234375,0.8581,70-100,70-100,Central Foothills,test
+camp_1169_1,camp,1169,1,6166,2467,0.3763427734375,0.4001,30-70,30-70,Central Foothills,test
+camp_1169_3,camp,1169,3,15108,8879,0.922119140625,0.5877,70-100,30-70,Central Foothills,test
+camp_1169_4,camp,1169,4,12405,9138,0.75714111328125,0.7366,70-100,70-100,Central Foothills,test
+eldorado_268_0,eldorado,268,0,4626,3837,0.2823486328125,0.8294,0-30,70-100,South Coast and Mountains,test
+eldorado_268_1,eldorado,268,1,2858,2615,0.1744384765625,0.915,0-30,70-100,South Coast and Mountains,test
+eldorado_268_3,eldorado,268,3,4801,3991,0.29302978515625,0.8313,0-30,70-100,South Coast and Mountains,test
+eldorado_268_4,eldorado,268,4,5058,4428,0.3087158203125,0.8754,30-70,70-100,South Coast and Mountains,test
+eldorado_297_0,eldorado,297,0,8248,6463,0.50341796875,0.7836,30-70,70-100,South Coast and Mountains,test
+eldorado_297_1,eldorado,297,1,10406,8828,0.6351318359375,0.8484,30-70,70-100,South Coast and Mountains,test
+eldorado_297_3,eldorado,297,3,10386,3815,0.6339111328125,0.3673,30-70,30-70,South Coast and Mountains,test
+eldorado_297_4,eldorado,297,4,12064,7623,0.736328125,0.6319,70-100,30-70,South Coast and Mountains,test
+czulight_669_0,czulight,669,0,3274,1058,0.1998291015625,0.3232,0-30,30-70,North Coast and Mountains,test
+czulight_669_1,czulight,669,1,3117,2517,0.19024658203125,0.8075,0-30,70-100,North Coast and Mountains,test
+czulight_669_4,czulight,669,4,7706,2455,0.4703369140625,0.3186,30-70,30-70,North Coast and Mountains,test
+river_552_0,river,552,0,3820,2635,0.233154296875,0.6898,0-30,30-70,Central Foothills,test
+caldor_2715_0,caldor,2715,0,9239,8831,0.56390380859375,0.9558,30-70,70-100,Sierra Nevada,test
+caldor_2715_4,caldor,2715,4,9232,9216,0.5634765625,0.9983,30-70,70-100,Sierra Nevada,test
+camp_1037_3,camp,1037,3,11390,8549,0.6951904296875,0.7506,30-70,70-100,North Coast and Mountains,test
+camp_1590_1,camp,1590,1,3771,0,0.23016357421875,0.0,0-30,0-30,Sierra Nevada,test
+camp_1590_3,camp,1590,3,2798,0,0.1707763671875,0.0,0-30,0-30,Sierra Nevada,test
+camp_1590_4,camp,1590,4,4437,0,0.27081298828125,0.0,0-30,0-30,Sierra Nevada,test
+alisal_237_1,alisal,237,1,112,0,0.0068359375,0.0,0-30,0-30,South Coast and Mountains,test
+eldorado_108_1,eldorado,108,1,9,9,0.00054931640625,1.0,0-30,70-100,South Coast and Mountains,test
+eldorado_108_4,eldorado,108,4,210,210,0.0128173828125,1.0,0-30,70-100,South Coast and Mountains,test
+eldorado_295_0,eldorado,295,0,6321,3488,0.38580322265625,0.5518,30-70,30-70,South Coast and Mountains,test
+eldorado_295_3,eldorado,295,3,6826,3449,0.4166259765625,0.5053,30-70,30-70,South Coast and Mountains,test
+river_627_0,river,627,0,2543,1861,0.15521240234375,0.7318,0-30,70-100,Central Foothills,test
+river_627_3,river,627,3,1227,565,0.07489013671875,0.4605,0-30,30-70,Central Foothills,test
+alisal_154_0,alisal,154,0,15894,0,0.9700927734375,0.0,70-100,0-30,South Coast and Mountains,test
+alisal_154_1,alisal,154,1,15658,61,0.9556884765625,0.0039,70-100,0-30,South Coast and Mountains,test
+alisal_154_4,alisal,154,4,15902,0,0.9705810546875,0.0,70-100,0-30,South Coast and Mountains,test
+slater_398_0,slater,398,0,11535,10653,0.70404052734375,0.9235,70-100,70-100,North Coast and Mountains,test
+creek_3379_0,creek,3379,0,4414,2719,0.2694091796875,0.616,0-30,30-70,Sierra Nevada,test
+creek_3379_1,creek,3379,1,3506,1943,0.2139892578125,0.5542,0-30,30-70,Sierra Nevada,test
+creek_3379_3,creek,3379,3,2919,1251,0.17816162109375,0.4286,0-30,30-70,Sierra Nevada,test
+camp_1509_0,camp,1509,0,5024,5024,0.306640625,1.0,30-70,70-100,Sierra Nevada,test
+camp_1509_1,camp,1509,1,6889,6889,0.42047119140625,1.0,30-70,70-100,Sierra Nevada,test
+northcomplex_1563_3,northcomplex,1563,3,14098,254,0.8604736328125,0.018,70-100,0-30,Sierra Nevada,test
+northcomplex_1563_4,northcomplex,1563,4,14706,879,0.8975830078125,0.0598,70-100,0-30,Sierra Nevada,test
+camp_1125_0,camp,1125,0,9751,9037,0.59515380859375,0.9268,30-70,70-100,Central Foothills,test
+camp_1125_3,camp,1125,3,13291,13125,0.81121826171875,0.9875,70-100,70-100,Central Foothills,test
+camp_1125_4,camp,1125,4,14960,11478,0.9130859375,0.7672,70-100,70-100,Central Foothills,test
+camp_1643_4,camp,1643,4,15228,5969,0.929443359375,0.392,70-100,30-70,Sierra Nevada,test
+northcomplex_2724_4,northcomplex,2724,4,14981,277,0.91436767578125,0.0185,70-100,0-30,Sierra Nevada,test
+caldor_1655_0,caldor,1655,0,11534,152,0.7039794921875,0.0132,70-100,0-30,Sierra Nevada,test
+caldor_1655_4,caldor,1655,4,9863,3,0.60198974609375,0.0003,30-70,0-30,Sierra Nevada,test
+camp_1859_1,camp,1859,1,13977,11416,0.85308837890625,0.8168,70-100,70-100,Sierra Nevada,test
+camp_1859_3,camp,1859,3,14770,13482,0.9014892578125,0.9128,70-100,70-100,Sierra Nevada,test
+alisal_126_0,alisal,126,0,4671,3434,0.28509521484375,0.7352,0-30,70-100,South Coast and Mountains,test
+alisal_126_3,alisal,126,3,5452,4266,0.332763671875,0.7825,30-70,70-100,South Coast and Mountains,test
+czulight_618_1,czulight,618,1,13777,5016,0.84088134765625,0.3641,70-100,30-70,North Coast and Mountains,test
+eldorado_147_1,eldorado,147,1,11401,0,0.69586181640625,0.0,30-70,0-30,South Coast and Mountains,test
+eldorado_147_3,eldorado,147,3,14300,0,0.872802734375,0.0,70-100,0-30,South Coast and Mountains,test
+eldorado_147_4,eldorado,147,4,14218,11,0.8677978515625,0.0008,70-100,0-30,South Coast and Mountains,test
+creek_3378_1,creek,3378,1,3459,123,0.21112060546875,0.0356,0-30,0-30,Sierra Nevada,test
+creek_3378_4,creek,3378,4,3234,205,0.1973876953125,0.0634,0-30,0-30,Sierra Nevada,test
+ranch_2333_1,ranch,2333,1,13417,5041,0.81890869140625,0.3757,70-100,30-70,North Coast and Mountains,test
+ranch_2333_3,ranch,2333,3,14801,808,0.90338134765625,0.0546,70-100,0-30,North Coast and Mountains,test
+ranch_2333_4,ranch,2333,4,14127,1107,0.86224365234375,0.0784,70-100,0-30,North Coast and Mountains,test
+camp_1287_0,camp,1287,0,6923,5524,0.42254638671875,0.7979,30-70,70-100,Sierra Nevada,test
+camp_1287_3,camp,1287,3,3249,2989,0.19830322265625,0.92,0-30,70-100,Sierra Nevada,test
+czulight_791_0,czulight,791,0,12528,10320,0.7646484375,0.8238,70-100,70-100,North Coast and Mountains,test
+stone_157_3,stone,157,3,8147,2139,0.49725341796875,0.2626,30-70,0-30,North Coast and Mountains,test
+camp_1456_0,camp,1456,0,11878,19,0.7249755859375,0.0016,70-100,0-30,Sierra Nevada,test
+camp_1330_0,camp,1330,0,640,637,0.0390625,0.9953,0-30,70-100,Sierra Nevada,test
+camp_1330_1,camp,1330,1,1500,983,0.091552734375,0.6553,0-30,30-70,Sierra Nevada,test
+camp_1330_3,camp,1330,3,4277,4220,0.26104736328125,0.9867,0-30,70-100,Sierra Nevada,test
+river_125_1,river,125,1,3655,3314,0.22308349609375,0.9067,0-30,70-100,Central Foothills,test
+river_125_3,river,125,3,8585,2752,0.52398681640625,0.3206,30-70,30-70,Central Foothills,test
+caldor_1871_3,caldor,1871,3,12650,12650,0.7720947265625,1.0,70-100,70-100,Sierra Nevada,test
+czulight_431_0,czulight,431,0,15547,8857,0.94891357421875,0.5697,70-100,30-70,North Coast and Mountains,test
+czulight_431_3,czulight,431,3,15897,8095,0.97027587890625,0.5092,70-100,30-70,North Coast and Mountains,test
+bobcat_1584_3,bobcat,1584,3,5811,0,0.35467529296875,0.0,30-70,0-30,South Coast and Mountains,test
+camp_1292_0,camp,1292,0,12735,9160,0.77728271484375,0.7193,70-100,70-100,Sierra Nevada,test
+camp_1292_3,camp,1292,3,10271,6846,0.62689208984375,0.6665,30-70,30-70,Sierra Nevada,test
+eldorado_193_0,eldorado,193,0,13113,6554,0.80035400390625,0.4998,70-100,30-70,South Coast and Mountains,test
+eldorado_193_1,eldorado,193,1,10980,10980,0.670166015625,1.0,30-70,70-100,South Coast and Mountains,test
+eldorado_193_3,eldorado,193,3,11333,6575,0.69171142578125,0.5802,30-70,30-70,South Coast and Mountains,test
+eldorado_193_4,eldorado,193,4,13031,10959,0.79534912109375,0.841,70-100,70-100,South Coast and Mountains,test
+camp_1721_3,camp,1721,3,9534,11,0.5819091796875,0.0012,30-70,0-30,Sierra Nevada,test
+bobcat_1341_0,bobcat,1341,0,7151,6758,0.43646240234375,0.945,30-70,70-100,South Coast and Mountains,test
+bobcat_1341_1,bobcat,1341,1,7016,4943,0.42822265625,0.7045,30-70,70-100,South Coast and Mountains,test
+czulight_579_3,czulight,579,3,15580,15580,0.950927734375,1.0,70-100,70-100,North Coast and Mountains,test
+czulight_569_0,czulight,569,0,8809,7585,0.53765869140625,0.8611,30-70,70-100,North Coast and Mountains,test
+czulight_569_4,czulight,569,4,14936,10201,0.91162109375,0.683,70-100,30-70,North Coast and Mountains,test
+northcomplex_3212_3,northcomplex,3212,3,12705,9955,0.77545166015625,0.7835,70-100,70-100,Sierra Nevada,test
+bobcat_427_0,bobcat,427,0,9713,4802,0.59283447265625,0.4944,30-70,30-70,South Coast and Mountains,test
+bobcat_427_3,bobcat,427,3,9519,5175,0.58099365234375,0.5436,30-70,30-70,South Coast and Mountains,test
+bobcat_427_4,bobcat,427,4,12653,7799,0.77227783203125,0.6164,70-100,30-70,South Coast and Mountains,test
+eldorado_197_1,eldorado,197,1,11444,5939,0.698486328125,0.519,30-70,30-70,South Coast and Mountains,test
+camp_976_3,camp,976,3,13921,465,0.84967041015625,0.0334,70-100,0-30,North Coast and Mountains,test
+camp_1122_0,camp,1122,0,11492,6464,0.701416015625,0.5625,70-100,30-70,Sierra Nevada,test
+camp_1122_1,camp,1122,1,8055,6743,0.49163818359375,0.8371,30-70,70-100,Sierra Nevada,test
+stone_153_0,stone,153,0,10424,7081,0.63623046875,0.6793,30-70,30-70,North Coast and Mountains,test
+stone_153_4,stone,153,4,5902,3898,0.3602294921875,0.6605,30-70,30-70,North Coast and Mountains,test
+bobcat_383_0,bobcat,383,0,13954,5113,0.8516845703125,0.3664,70-100,30-70,South Coast and Mountains,test
+bobcat_383_1,bobcat,383,1,14594,5294,0.8907470703125,0.3628,70-100,30-70,South Coast and Mountains,test
+bobcat_383_3,bobcat,383,3,15755,1853,0.96160888671875,0.1176,70-100,0-30,South Coast and Mountains,test
+river_257_0,river,257,0,7557,7154,0.46124267578125,0.9467,30-70,70-100,Central Foothills,test
+river_257_1,river,257,1,10174,8668,0.6209716796875,0.852,30-70,70-100,Central Foothills,test
+river_257_3,river,257,3,13546,13303,0.8267822265625,0.9821,70-100,70-100,Central Foothills,test
+river_257_4,river,257,4,12330,6625,0.7525634765625,0.5373,70-100,30-70,Central Foothills,test
+ranch_1370_1,ranch,1370,1,7907,5086,0.48260498046875,0.6432,30-70,30-70,Central Foothills,test
+czulight_756_0,czulight,756,0,4529,2742,0.27642822265625,0.6054,0-30,30-70,North Coast and Mountains,test
+czulight_756_1,czulight,756,1,11890,4970,0.7257080078125,0.418,70-100,30-70,North Coast and Mountains,test
+czulight_756_4,czulight,756,4,13741,12611,0.83868408203125,0.9178,70-100,70-100,North Coast and Mountains,test
+eldorado_343_3,eldorado,343,3,2604,1728,0.158935546875,0.6636,0-30,30-70,South Coast and Mountains,test
+eldorado_343_4,eldorado,343,4,2603,1456,0.15887451171875,0.5594,0-30,30-70,South Coast and Mountains,test
+ranch_1614_3,ranch,1614,3,7722,1217,0.4713134765625,0.1576,30-70,0-30,North Coast and Mountains,test
+ranch_1614_4,ranch,1614,4,12283,6637,0.74969482421875,0.5403,70-100,30-70,Central Foothills,test
+camp_1732_0,camp,1732,0,16150,15605,0.9857177734375,0.9663,70-100,70-100,Sierra Nevada,test
+ranch_2109_3,ranch,2109,3,10080,7806,0.615234375,0.7744,30-70,70-100,North Coast and Mountains,test
+ranch_2109_4,ranch,2109,4,7663,5116,0.46771240234375,0.6676,30-70,30-70,North Coast and Mountains,test
+bobcat_381_0,bobcat,381,0,15460,3669,0.943603515625,0.2373,70-100,0-30,South Coast and Mountains,test
+bobcat_381_4,bobcat,381,4,14211,3675,0.86737060546875,0.2586,70-100,0-30,South Coast and Mountains,test
+alisal_136_0,alisal,136,0,1665,1496,0.10162353515625,0.8985,0-30,70-100,South Coast and Mountains,test
+alisal_136_1,alisal,136,1,342,268,0.0208740234375,0.7836,0-30,70-100,South Coast and Mountains,test
+alisal_136_3,alisal,136,3,3550,3088,0.2166748046875,0.8699,0-30,70-100,South Coast and Mountains,test
+alisal_136_4,alisal,136,4,1560,1560,0.09521484375,1.0,0-30,70-100,South Coast and Mountains,test
+creek_2117_0,creek,2117,0,5550,1923,0.3387451171875,0.3465,30-70,30-70,Sierra Nevada,test
+creek_2117_3,creek,2117,3,7034,3202,0.4293212890625,0.4552,30-70,30-70,Sierra Nevada,test
+camp_1647_4,camp,1647,4,14410,7940,0.8795166015625,0.551,70-100,30-70,Sierra Nevada,test
+eldorado_220_1,eldorado,220,1,11212,11078,0.684326171875,0.988,30-70,70-100,South Coast and Mountains,test
+eldorado_220_4,eldorado,220,4,8864,4687,0.541015625,0.5288,30-70,30-70,South Coast and Mountains,test
+river_283_1,river,283,1,8060,6507,0.491943359375,0.8073,30-70,70-100,Central Foothills,test
+river_283_3,river,283,3,8270,7334,0.5047607421875,0.8868,30-70,70-100,Central Foothills,test
+river_283_4,river,283,4,10370,10277,0.6329345703125,0.991,30-70,70-100,Central Foothills,test
+czulight_594_4,czulight,594,4,3711,1362,0.22650146484375,0.367,0-30,30-70,North Coast and Mountains,test
+camp_1069_0,camp,1069,0,13606,8545,0.8304443359375,0.628,70-100,30-70,Sierra Nevada,test
+dolan_1618_1,dolan,1618,1,14488,0,0.88427734375,0.0,70-100,0-30,Central Foothills,test
+eldorado_371_0,eldorado,371,0,10532,10532,0.642822265625,1.0,30-70,70-100,South Coast and Mountains,test
+eldorado_371_1,eldorado,371,1,11116,6494,0.678466796875,0.5842,30-70,30-70,South Coast and Mountains,test
+eldorado_371_3,eldorado,371,3,11359,11287,0.69329833984375,0.9937,30-70,70-100,South Coast and Mountains,test
+eldorado_371_4,eldorado,371,4,9647,6563,0.58880615234375,0.6803,30-70,30-70,South Coast and Mountains,test
+slater_187_0,slater,187,0,15323,1980,0.93524169921875,0.1292,70-100,0-30,North Coast and Mountains,test
+ranch_2688_3,ranch,2688,3,14120,1583,0.86181640625,0.1121,70-100,0-30,North Coast and Mountains,test
+caldor_2624_0,caldor,2624,0,11686,8186,0.7132568359375,0.7005,70-100,70-100,Sierra Nevada,test
+caldor_2624_3,caldor,2624,3,11008,7522,0.671875,0.6833,30-70,30-70,Sierra Nevada,test
+monument_2412_3,monument,2412,3,340,11,0.020751953125,0.0324,0-30,0-30,North Coast and Mountains,test
+ranch_1009_0,ranch,1009,0,10907,0,0.66571044921875,0.0,30-70,0-30,Central Foothills,test
+ranch_1009_1,ranch,1009,1,11940,0,0.728759765625,0.0,70-100,0-30,Central Foothills,test
+northcomplex_961_0,northcomplex,961,0,14392,8883,0.87841796875,0.6172,70-100,30-70,Sierra Nevada,test
+northcomplex_961_4,northcomplex,961,4,14080,13696,0.859375,0.9727,70-100,70-100,Sierra Nevada,test
+camp_1501_1,camp,1501,1,5465,0,0.33355712890625,0.0,30-70,0-30,Sierra Nevada,test
+camp_1501_4,camp,1501,4,3499,0,0.21356201171875,0.0,0-30,0-30,Sierra Nevada,test
+czulight_567_3,czulight,567,3,8344,8344,0.50927734375,1.0,30-70,70-100,North Coast and Mountains,test
+dixie_250_0,dixie,250,0,79,69,0.00482177734375,0.8734,0-30,70-100,North Coast and Mountains,test
+monument_2571_0,monument,2571,0,13058,13058,0.7969970703125,1.0,70-100,70-100,North Coast and Mountains,test
+monument_2571_4,monument,2571,4,13702,8784,0.8363037109375,0.6411,70-100,30-70,North Coast and Mountains,test
+river_528_1,river,528,1,3331,2375,0.20330810546875,0.713,0-30,70-100,Central Foothills,test
+river_528_3,river,528,3,4521,1545,0.27593994140625,0.3417,0-30,30-70,Central Foothills,test
+river_528_4,river,528,4,3243,977,0.19793701171875,0.3013,0-30,30-70,Central Foothills,test
+caldor_2425_1,caldor,2425,1,5396,2950,0.329345703125,0.5467,30-70,30-70,Sierra Nevada,test
+dixie_318_1,dixie,318,1,4632,2066,0.28271484375,0.446,0-30,30-70,North Coast and Mountains,test
+slater_219_3,slater,219,3,5950,2257,0.3631591796875,0.3793,30-70,30-70,North Coast and Mountains,test
+camp_1648_0,camp,1648,0,15582,11733,0.9510498046875,0.753,70-100,70-100,Sierra Nevada,test
+camp_1648_1,camp,1648,1,15184,4097,0.9267578125,0.2698,70-100,0-30,Sierra Nevada,test
+camp_1648_3,camp,1648,3,15308,10910,0.934326171875,0.7127,70-100,70-100,Sierra Nevada,test
+ranch_2098_0,ranch,2098,0,7862,3811,0.4798583984375,0.4847,30-70,30-70,Central Foothills,test
+czulight_799_3,czulight,799,3,13878,1356,0.8470458984375,0.0977,70-100,0-30,North Coast and Mountains,test
+dolan_971_1,dolan,971,1,4568,4431,0.27880859375,0.97,0-30,70-100,Central Foothills,test
+dolan_971_3,dolan,971,3,8054,7998,0.4915771484375,0.993,30-70,70-100,Central Foothills,test
+dolan_971_4,dolan,971,4,8595,8042,0.52459716796875,0.9357,30-70,70-100,Central Foothills,test
+ranch_1608_3,ranch,1608,3,13870,7886,0.8465576171875,0.5686,70-100,30-70,Central Foothills,test
+czulight_206_4,czulight,206,4,14601,5610,0.89117431640625,0.3842,70-100,30-70,North Coast and Mountains,test
+creek_2524_1,creek,2524,1,12447,10810,0.75970458984375,0.8685,70-100,70-100,Sierra Nevada,test
+creek_2524_3,creek,2524,3,11757,11757,0.71759033203125,1.0,70-100,70-100,Sierra Nevada,test
+stone_198_4,stone,198,4,7868,4935,0.480224609375,0.6272,30-70,30-70,North Coast and Mountains,test
+bobcat_758_0,bobcat,758,0,10768,7809,0.6572265625,0.7252,30-70,70-100,South Coast and Mountains,test
+bobcat_758_1,bobcat,758,1,8893,6865,0.54278564453125,0.772,30-70,70-100,South Coast and Mountains,test
+bobcat_758_3,bobcat,758,3,12946,7984,0.7901611328125,0.6167,70-100,30-70,South Coast and Mountains,test
+bobcat_758_4,bobcat,758,4,8870,5966,0.5413818359375,0.6726,30-70,30-70,South Coast and Mountains,test
+slater_221_1,slater,221,1,262,262,0.0159912109375,1.0,0-30,70-100,North Coast and Mountains,test
+slater_221_4,slater,221,4,3313,2635,0.20220947265625,0.7954,0-30,70-100,North Coast and Mountains,test
+camp_1117_0,camp,1117,0,4129,4129,0.25201416015625,1.0,0-30,70-100,Sierra Nevada,test
+camp_1117_4,camp,1117,4,1060,1060,0.064697265625,1.0,0-30,70-100,Sierra Nevada,test
+ranch_3142_3,ranch,3142,3,1515,1515,0.09246826171875,1.0,0-30,70-100,North Coast and Mountains,test
+river_316_1,river,316,1,10103,9104,0.61663818359375,0.9011,30-70,70-100,Central Foothills,test
+river_316_3,river,316,3,11731,8498,0.71600341796875,0.7244,70-100,70-100,Central Foothills,test
+river_316_4,river,316,4,7902,3583,0.4822998046875,0.4534,30-70,30-70,Central Foothills,test
+czulight_165_0,czulight,165,0,6590,6196,0.4022216796875,0.9402,30-70,70-100,North Coast and Mountains,test
+czulight_165_3,czulight,165,3,13833,8650,0.84429931640625,0.6253,70-100,30-70,North Coast and Mountains,test
+ranch_2710_0,ranch,2710,0,9788,9586,0.597412109375,0.9794,30-70,70-100,North Coast and Mountains,test
+ranch_2710_4,ranch,2710,4,12714,12645,0.7760009765625,0.9946,70-100,70-100,North Coast and Mountains,test
+camp_1249_1,camp,1249,1,10721,5310,0.65435791015625,0.4953,30-70,30-70,Sierra Nevada,test
+bobcat_1198_0,bobcat,1198,0,10083,3327,0.61541748046875,0.33,30-70,30-70,South Coast and Mountains,test
+bobcat_1198_4,bobcat,1198,4,4936,3947,0.30126953125,0.7996,30-70,70-100,South Coast and Mountains,test
+slater_341_4,slater,341,4,13151,11908,0.80267333984375,0.9055,70-100,70-100,North Coast and Mountains,test
+dolan_579_0,dolan,579,0,13100,5905,0.799560546875,0.4508,70-100,30-70,Central Foothills,test
+dolan_579_1,dolan,579,1,7872,1136,0.48046875,0.1443,30-70,0-30,Central Foothills,test
+river_704_0,river,704,0,3763,0,0.22967529296875,0.0,0-30,0-30,Central Foothills,test
+eldorado_189_0,eldorado,189,0,3190,3180,0.1947021484375,0.9969,0-30,70-100,South Coast and Mountains,test
+eldorado_189_1,eldorado,189,1,2876,2841,0.175537109375,0.9878,0-30,70-100,South Coast and Mountains,test
+eldorado_189_3,eldorado,189,3,1180,1170,0.072021484375,0.9915,0-30,70-100,South Coast and Mountains,test
+eldorado_189_4,eldorado,189,4,1974,1653,0.1204833984375,0.8374,0-30,70-100,South Coast and Mountains,test
+camp_1277_4,camp,1277,4,15687,0,0.95745849609375,0.0,70-100,0-30,Sierra Nevada,test
+northcomplex_4007_3,northcomplex,4007,3,5725,81,0.34942626953125,0.0141,30-70,0-30,Sierra Nevada,test
+northcomplex_1143_0,northcomplex,1143,0,2705,309,0.16510009765625,0.1142,0-30,0-30,Sierra Nevada,test
+northcomplex_1143_1,northcomplex,1143,1,2068,1099,0.126220703125,0.5314,0-30,30-70,Sierra Nevada,test
+czulight_629_1,czulight,629,1,1010,26,0.0616455078125,0.0257,0-30,0-30,North Coast and Mountains,test
+camp_1465_3,camp,1465,3,2956,2956,0.180419921875,1.0,0-30,70-100,Sierra Nevada,test
+ranch_2921_4,ranch,2921,4,6637,6613,0.40509033203125,0.9964,30-70,70-100,North Coast and Mountains,test
+stone_372_1,stone,372,1,7824,4025,0.4775390625,0.5144,30-70,30-70,North Coast and Mountains,test
+stone_372_4,stone,372,4,8480,3858,0.517578125,0.455,30-70,30-70,North Coast and Mountains,test
+czulight_417_1,czulight,417,1,13467,8918,0.82196044921875,0.6622,70-100,30-70,North Coast and Mountains,test
+czulight_417_3,czulight,417,3,10964,681,0.669189453125,0.0621,30-70,0-30,North Coast and Mountains,test
+alisal_103_0,alisal,103,0,3519,2228,0.21478271484375,0.6331,0-30,30-70,South Coast and Mountains,test
+alisal_103_1,alisal,103,1,4492,4492,0.274169921875,1.0,0-30,70-100,South Coast and Mountains,test
+alisal_103_4,alisal,103,4,4692,4241,0.286376953125,0.9039,0-30,70-100,South Coast and Mountains,test
+northcomplex_1209_1,northcomplex,1209,1,3628,3082,0.221435546875,0.8495,0-30,70-100,Sierra Nevada,test
+northcomplex_1209_3,northcomplex,1209,3,4667,2028,0.28485107421875,0.4345,0-30,30-70,Sierra Nevada,test
+northcomplex_1209_4,northcomplex,1209,4,1120,527,0.068359375,0.4705,0-30,30-70,Sierra Nevada,test
+dixie_337_1,dixie,337,1,10032,10014,0.6123046875,0.9982,30-70,70-100,North Coast and Mountains,test
+camp_1470_4,camp,1470,4,3722,752,0.2271728515625,0.202,0-30,0-30,Sierra Nevada,test
+caldor_2082_0,caldor,2082,0,6518,44,0.3978271484375,0.0068,30-70,0-30,Sierra Nevada,test
+caldor_2082_3,caldor,2082,3,5065,29,0.30914306640625,0.0057,30-70,0-30,Sierra Nevada,test
+caldor_2082_4,caldor,2082,4,6740,38,0.411376953125,0.0056,30-70,0-30,Sierra Nevada,test
+camp_1211_3,camp,1211,3,13497,13089,0.82379150390625,0.9698,70-100,70-100,Central Foothills,test
+camp_1211_4,camp,1211,4,8572,8194,0.523193359375,0.9559,30-70,70-100,Central Foothills,test
+eldorado_110_0,eldorado,110,0,557,557,0.03399658203125,1.0,0-30,70-100,South Coast and Mountains,test
+eldorado_110_3,eldorado,110,3,1547,1488,0.09442138671875,0.9619,0-30,70-100,South Coast and Mountains,test
+eldorado_110_4,eldorado,110,4,4611,4611,0.28143310546875,1.0,0-30,70-100,South Coast and Mountains,test
+czulight_673_0,czulight,673,0,7144,7144,0.43603515625,1.0,30-70,70-100,North Coast and Mountains,test
+czulight_673_4,czulight,673,4,12107,4221,0.73895263671875,0.3486,70-100,30-70,North Coast and Mountains,test
+camp_1198_3,camp,1198,3,13612,13612,0.830810546875,1.0,70-100,70-100,Sierra Nevada,test
+dixie_344_1,dixie,344,1,10473,9086,0.63922119140625,0.8676,30-70,70-100,North Coast and Mountains,test
+bobcat_715_0,bobcat,715,0,9062,5787,0.5531005859375,0.6386,30-70,30-70,South Coast and Mountains,test
+bobcat_715_1,bobcat,715,1,9304,5459,0.56787109375,0.5867,30-70,30-70,South Coast and Mountains,test
+bobcat_715_3,bobcat,715,3,1835,1324,0.11199951171875,0.7215,0-30,70-100,South Coast and Mountains,test
+northcomplex_3337_0,northcomplex,3337,0,14429,14429,0.88067626953125,1.0,70-100,70-100,Sierra Nevada,test
+northcomplex_3337_1,northcomplex,3337,1,15487,15487,0.94525146484375,1.0,70-100,70-100,Sierra Nevada,test
+northcomplex_3337_3,northcomplex,3337,3,14517,14517,0.88604736328125,1.0,70-100,70-100,Sierra Nevada,test
+northcomplex_3337_4,northcomplex,3337,4,15649,15609,0.95513916015625,0.9974,70-100,70-100,Sierra Nevada,test
+ranch_2588_0,ranch,2588,0,7741,3534,0.47247314453125,0.4565,30-70,30-70,Central Foothills,test
+ranch_2588_4,ranch,2588,4,5940,3055,0.362548828125,0.5143,30-70,30-70,Central Foothills,test
+river_415_0,river,415,0,3810,3770,0.2325439453125,0.9895,0-30,70-100,Central Foothills,test
+river_373_1,river,373,1,1861,322,0.11358642578125,0.173,0-30,0-30,Central Foothills,test
+camp_1562_3,camp,1562,3,15971,2682,0.97479248046875,0.1679,70-100,0-30,Sierra Nevada,test
+alisal_212_4,alisal,212,4,3780,2579,0.230712890625,0.6823,0-30,30-70,South Coast and Mountains,test
+dolan_1139_0,dolan,1139,0,6887,3817,0.42034912109375,0.5542,30-70,30-70,Central Foothills,test
+dolan_1139_1,dolan,1139,1,2901,2280,0.17706298828125,0.7859,0-30,70-100,Central Foothills,test
+ranch_1108_4,ranch,1108,4,13595,2665,0.82977294921875,0.196,70-100,0-30,North Coast and Mountains,test
+dolan_734_1,dolan,734,1,7155,780,0.43670654296875,0.109,30-70,0-30,Central Foothills,test
+dolan_734_3,dolan,734,3,9004,95,0.549560546875,0.0106,30-70,0-30,Central Foothills,test
+camp_1372_3,camp,1372,3,14068,12106,0.858642578125,0.8605,70-100,70-100,Sierra Nevada,test
+camp_1158_3,camp,1158,3,9059,8978,0.55291748046875,0.9911,30-70,70-100,Sierra Nevada,test
+ranch_1901_1,ranch,1901,1,3181,3181,0.19415283203125,1.0,0-30,70-100,Central Foothills,test
+ranch_1901_4,ranch,1901,4,11740,4695,0.716552734375,0.3999,70-100,30-70,Central Foothills,test
+camp_1373_3,camp,1373,3,7512,5551,0.45849609375,0.739,30-70,70-100,Sierra Nevada,test
+czulight_705_3,czulight,705,3,11778,3040,0.7188720703125,0.2581,70-100,0-30,North Coast and Mountains,test
+czulight_705_4,czulight,705,4,14591,304,0.89056396484375,0.0208,70-100,0-30,North Coast and Mountains,test
+ranch_2428_0,ranch,2428,0,7079,7079,0.43206787109375,1.0,30-70,70-100,Central Foothills,test
+ranch_2428_1,ranch,2428,1,8491,8491,0.51824951171875,1.0,30-70,70-100,Central Foothills,test
+czulight_275_3,czulight,275,3,9927,9921,0.60589599609375,0.9994,30-70,70-100,North Coast and Mountains,test
+camp_1565_0,camp,1565,0,15745,8239,0.96099853515625,0.5233,70-100,30-70,Sierra Nevada,test
+camp_1565_4,camp,1565,4,15368,12663,0.93798828125,0.824,70-100,70-100,Sierra Nevada,test
+river_360_0,river,360,0,10878,10714,0.6639404296875,0.9849,30-70,70-100,Central Foothills,test
+river_360_4,river,360,4,8801,7107,0.53717041015625,0.8075,30-70,70-100,Central Foothills,test
+alisal_58_0,alisal,58,0,9590,0,0.5853271484375,0.0,30-70,0-30,South Coast and Mountains,test
+alisal_162_0,alisal,162,0,3392,2658,0.20703125,0.7836,0-30,70-100,South Coast and Mountains,test
+alisal_162_1,alisal,162,1,6997,2454,0.42706298828125,0.3507,30-70,30-70,South Coast and Mountains,test
+alisal_162_4,alisal,162,4,4398,1754,0.2684326171875,0.3988,0-30,30-70,South Coast and Mountains,test
+ranch_2565_0,ranch,2565,0,11234,0,0.6856689453125,0.0,30-70,0-30,Central Foothills,test
+creek_3089_0,creek,3089,0,9652,0,0.589111328125,0.0,30-70,0-30,Sierra Nevada,test
+eldorado_117_3,eldorado,117,3,12119,0,0.73968505859375,0.0,70-100,0-30,South Coast and Mountains,test
+river_573_0,river,573,0,2725,2701,0.16632080078125,0.9912,0-30,70-100,Central Foothills,test
+river_573_4,river,573,4,4147,3754,0.25311279296875,0.9052,0-30,70-100,Central Foothills,test
+ranch_1683_4,ranch,1683,4,9017,8324,0.55035400390625,0.9231,30-70,70-100,Central Foothills,test
+camp_1200_0,camp,1200,0,14348,8471,0.875732421875,0.5904,70-100,30-70,Sierra Nevada,test
+czulight_892_4,czulight,892,4,3107,2614,0.18963623046875,0.8413,0-30,70-100,North Coast and Mountains,test
+alisal_99_3,alisal,99,3,5156,3886,0.314697265625,0.7537,30-70,70-100,South Coast and Mountains,test
+eldorado_262_0,eldorado,262,0,9073,2243,0.55377197265625,0.2472,30-70,0-30,South Coast and Mountains,test
+eldorado_262_3,eldorado,262,3,11937,6279,0.72857666015625,0.526,70-100,30-70,South Coast and Mountains,test
+bobcat_711_0,bobcat,711,0,15352,1982,0.93701171875,0.1291,70-100,0-30,South Coast and Mountains,test
+bobcat_711_1,bobcat,711,1,13887,2671,0.84759521484375,0.1923,70-100,0-30,South Coast and Mountains,test
+bobcat_711_3,bobcat,711,3,13330,2108,0.8135986328125,0.1581,70-100,0-30,South Coast and Mountains,test
+czulight_893_0,czulight,893,0,4126,34,0.2518310546875,0.0082,0-30,0-30,North Coast and Mountains,test
+monument_2298_0,monument,2298,0,13568,667,0.828125,0.0492,70-100,0-30,North Coast and Mountains,test
+monument_2298_3,monument,2298,3,11644,148,0.710693359375,0.0127,70-100,0-30,North Coast and Mountains,test
+czulight_930_1,czulight,930,1,13736,4486,0.83837890625,0.3266,70-100,30-70,North Coast and Mountains,test
+czulight_930_4,czulight,930,4,12398,5801,0.7567138671875,0.4679,70-100,30-70,North Coast and Mountains,test
+caldor_1570_3,caldor,1570,3,10922,10922,0.6666259765625,1.0,30-70,70-100,Sierra Nevada,test
+northcomplex_4134_4,northcomplex,4134,4,14463,3486,0.88275146484375,0.241,70-100,0-30,Sierra Nevada,validate
+czulight_493_0,czulight,493,0,391,391,0.02386474609375,1.0,0-30,70-100,North Coast and Mountains,validate
+camp_1152_0,camp,1152,0,9585,5441,0.58502197265625,0.5677,30-70,30-70,Sierra Nevada,validate
+bobcat_1294_0,bobcat,1294,0,7899,7273,0.48211669921875,0.9207,30-70,70-100,South Coast and Mountains,validate
+bobcat_336_1,bobcat,336,1,14068,9798,0.858642578125,0.6965,70-100,30-70,South Coast and Mountains,validate
+dixie_411_3,dixie,411,3,6127,5155,0.37396240234375,0.8414,30-70,70-100,North Coast and Mountains,validate
+camp_1168_3,camp,1168,3,15104,14548,0.921875,0.9632,70-100,70-100,Central Foothills,validate
+eldorado_295_1,eldorado,295,1,7470,5113,0.4559326171875,0.6845,30-70,30-70,South Coast and Mountains,validate
+eldorado_295_4,eldorado,295,4,6814,3979,0.4158935546875,0.5839,30-70,30-70,South Coast and Mountains,validate
+camp_1643_3,camp,1643,3,15322,11794,0.9351806640625,0.7697,70-100,70-100,Sierra Nevada,validate
+ranch_1942_1,ranch,1942,1,7395,5856,0.45135498046875,0.7919,30-70,70-100,North Coast and Mountains,validate
+bobcat_1341_3,bobcat,1341,3,13762,3247,0.8399658203125,0.2359,70-100,0-30,South Coast and Mountains,validate
+northcomplex_3212_0,northcomplex,3212,0,12523,12523,0.76434326171875,1.0,70-100,70-100,Sierra Nevada,validate
+dixie_329_0,dixie,329,0,691,67,0.04217529296875,0.097,0-30,0-30,North Coast and Mountains,validate
+ranch_1614_1,ranch,1614,1,9097,2401,0.55523681640625,0.2639,30-70,0-30,Central Foothills,validate
+bobcat_381_3,bobcat,381,3,14898,3530,0.9093017578125,0.2369,70-100,0-30,South Coast and Mountains,validate
+ranch_2688_1,ranch,2688,1,14497,7538,0.88482666015625,0.52,70-100,30-70,North Coast and Mountains,validate
+alisal_106_1,alisal,106,1,10140,0,0.618896484375,0.0,30-70,0-30,South Coast and Mountains,validate
+monument_2571_3,monument,2571,3,13415,13325,0.81878662109375,0.9933,70-100,70-100,North Coast and Mountains,validate
+dixie_318_3,dixie,318,3,8428,1579,0.514404296875,0.1874,30-70,0-30,North Coast and Mountains,validate
+ranch_1608_1,ranch,1608,1,9824,5581,0.599609375,0.5681,30-70,30-70,Central Foothills,validate
+caldor_1505_4,caldor,1505,4,11685,2558,0.71319580078125,0.2189,70-100,0-30,Sierra Nevada,validate
+bobcat_1198_1,bobcat,1198,1,6674,6638,0.4073486328125,0.9946,30-70,70-100,South Coast and Mountains,validate
+dolan_579_4,dolan,579,4,13732,3070,0.838134765625,0.2236,70-100,0-30,Central Foothills,validate
+river_704_3,river,704,3,3402,14,0.2076416015625,0.0041,0-30,0-30,Central Foothills,validate
+river_466_4,river,466,4,7919,5209,0.48333740234375,0.6578,30-70,30-70,Central Foothills,validate
+northcomplex_1209_0,northcomplex,1209,0,7163,2295,0.43719482421875,0.3204,30-70,30-70,Sierra Nevada,validate
+camp_1470_3,camp,1470,3,4593,3040,0.28033447265625,0.6619,0-30,30-70,Sierra Nevada,validate
+camp_1562_4,camp,1562,4,15811,4798,0.96502685546875,0.3035,70-100,30-70,Sierra Nevada,validate
+camp_847_4,camp,847,4,12307,2155,0.75115966796875,0.1751,70-100,0-30,North Coast and Mountains,validate
+ranch_1108_1,ranch,1108,1,7620,5341,0.465087890625,0.7009,30-70,70-100,North Coast and Mountains,validate
+camp_1158_1,camp,1158,1,3229,3229,0.19708251953125,1.0,0-30,70-100,Sierra Nevada,validate
+ranch_1901_3,ranch,1901,3,13343,5016,0.81439208984375,0.3759,70-100,30-70,Central Foothills,validate
+ranch_1683_0,ranch,1683,0,9862,9297,0.6019287109375,0.9427,30-70,70-100,Central Foothills,validate
+ranch_1683_3,ranch,1683,3,5334,5232,0.3255615234375,0.9809,30-70,70-100,Central Foothills,validate
