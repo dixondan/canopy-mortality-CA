@@ -26,10 +26,9 @@ This repository contains the following:
         - Saved (trained) model in TensorFlow (model/ST-CNN.zip)
         - Model architecture (model/architecture.py)
     - Predicted:
-        - Predicted model outputs on test scenes ()
+        - Predicted model outputs on test scenes split by 384 X 384-m quadrants (band1=labeled, band2=predicted)
         - Predicted model outputs for 2020 wildfires
-            - Available in the Google Earth Engine image collection: users/danieljdixon1991/CA/tree-mortality-v2/predicted_by_fire
-            - Or on request
+            - Available in the Google Earth Engine image collection: users/danieljdixon1991/CA/tree-mortality-v2/predicted_by_fire (or on request)
 
 Visualize the predicted model outputs for all 2020 California wildfires: https://bit.ly/canopy-mortality-CA
 <p align="center">
