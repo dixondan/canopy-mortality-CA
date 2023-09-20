@@ -21,7 +21,7 @@ This repository contains the following:
         - Geopackages of pre-fire canopy polygons labeled with post-fire NAIP imagery (on request due to data size)
         - 3-m rasterized labels (labels_rasterized/)
             - 0=non-woody, 1=shrub survival, 2=shrub mortality, 3=tree survival, 4=tree mortality
-        - **Not included are PlanetScope median mosaics due to licensing restrictions
+        - Not included are PlanetScope median mosaics due to licensing restrictions
     - Model:
         - Saved (trained) model in TensorFlow (model/ST-CNN.zip)
         - Model architecture (model/architecture.py)
