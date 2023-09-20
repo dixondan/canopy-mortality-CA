@@ -31,7 +31,7 @@ This repository contains the following:
         - Available in the Google Earth Engine image collection: users/danieljdixon1991/CA/tree-mortality-v2/predicted_by_fire (or on request)
 - Metadata:
     - Information describing each scene or quadrant including which belongs to train, validation, or test datasets  
-Visualize the predicted model outputs for all 2020 California wildfires: https://bit.ly/canopy-mortality-CA
+Visualize the predicted model outputs for all 2020 California wildfires: https://bit.ly/canopy-mortality-CA 
 <p align="center">
   <img src="figs/example.gif" />
 </p>
