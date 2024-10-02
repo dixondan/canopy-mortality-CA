@@ -32,12 +32,15 @@ def create_st_model_1(channels: int) -> tf.keras.Model:
     x = Conv2D(64, 3, use_bias=False, padding='same')(x)
     x = BatchNormalization()(x)
     x = swish(x)
+    # the number of times you apply sep_conv_2d will determine the receptive field
+    # by a pixel on each end each time. I think 4-8 is reasonable depending on the size of the object of interest
     x = sep_conv_2d(x, 128)
     x = sep_conv_2d(x, 128)
     x = sep_conv_2d(x, 128)
     x = sep_conv_2d(x, 128)
     # N, T, H, W, C
     x_input_time = tf.reshape(x, (batch_dim, time_dim, height_dim, width_dim, 128))
+    # the number of Con3D and max pooling should decrease the time dimension / 2 each time.
     x = Conv3D(128, (3, 1, 1), activation='relu', use_bias=True, padding='same')(x_input_time)
     # N, T/2, H, W, C
     x = MaxPooling3D((2, 1, 1))(x)
@@ -48,6 +51,7 @@ def create_st_model_1(channels: int) -> tf.keras.Model:
     # N, T=1, H, W, C
     x = MaxPooling3D((3, 1, 1))(x)
     x = tf.reshape(x, (batch_dim, height_dim, width_dim, 128))
+    # could do more than one dense layer or with more units, but 128-256 is probably best
     x = Dense(256, activation='relu')(x)
     x = Dense(nclasses, activation='softmax')(x)
     x = tf.reshape(x, (batch_dim, height_dim, width_dim, nclasses))
